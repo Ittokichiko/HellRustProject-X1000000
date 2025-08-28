@@ -1,0 +1,864 @@
+{
+  "Translations": {
+    "Death Messages": [
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{victim} was shot by {killer} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{killer} inflamed {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Slash",
+        "Messages": [
+          "{killer} slashed {victim} into pieces with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed a {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Shark",
+        "DamageType": "*",
+        "Messages": [
+          "The waters are a tad safer now that {killer} killed a {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "ZombieNPC",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fought off a spooky {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "ZombieNPC",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed {victim} and ate their brains!"
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "ZombieNPC",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "ScarecrowNPC",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fought off a spooky {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "ScarecrowNPC",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} scared {victim} to death!"
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "ScarecrowNPC",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} did some scaring of their own against a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "GingerbreadNPC",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fought off a deliciously deadly {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "GingerbreadNPC",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "Death was sweet for {victim}, who was killed by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "GingerbreadNPC",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} took a bite out of a deliciously deadly {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "NPCShopKeeper",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} was not interested in {victim}'s inventory, and sold them pain with their {weapon} instead."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Scientist",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} did not want to be a part of the {victim}'s experiments, and did some science of their own with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Scientist",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} did some research of their own against a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Scientist",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{killer} did some research of their own against a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "HeavyScientist",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} did not want to be a part of the {victim}'s experiments, and did some science of their own with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "HeavyScientist",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} did some research of their own against a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "HeavyScientist",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{killer} did some research of their own against a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Bradley",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} blew up the {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "ExcavatorArm",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} excavated {victim} for trace amounts of precious materials. None were found."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Helicopter",
+        "DamageType": "*",
+        "Messages": [
+          "The {victim} was destroyed. Good riddance."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Helicopter",
+        "DamageType": "*",
+        "Messages": [
+          "The world is a safer place now that {killer} shot down the {victim} with their {weapon}. Good riddance."
+        ]
+      },
+      {
+        "KillerType": "SAM",
+        "VictimType": "Helicopter",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} brought down {victim}."
+        ]
+      },
+      {
+        "KillerType": "SAM",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} brought down {victim}."
+        ]
+      },
+      {
+        "KillerType": "Animal",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} couldn't run away from the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Shark",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "Baby {killer}, doo-doo, doo-doo, doo-doo ate {victim}."
+        ]
+      },
+      {
+        "KillerType": "BeeSwarm",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} just reminded {victim} that they are allergic to bee stings."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "BeeSwarm",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} just swatted a {victim} out of existence."
+        ]
+      },
+      {
+        "KillerType": "Bradley",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was blasted by the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Helicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} had no chance against the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Trap",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was reckless and ran into a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Trap",
+        "VictimType": "Scientist",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} fell victim to {owner}'s well placed {killer}."
+        ]
+      },
+      {
+        "KillerType": "Trap",
+        "VictimType": "HeavyScientist",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} fell victim to {owner}'s well placed {killer}."
+        ]
+      },
+      {
+        "KillerType": "Barricade",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was impaled by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Turret",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{owner}'s {killer} did its job, killing intruder {victim}."
+        ]
+      },
+      {
+        "KillerType": "Turret",
+        "VictimType": "Scientist",
+        "DamageType": "*",
+        "Messages": [
+          "{owner}'s {killer} did its job, killing a {victim}."
+        ]
+      },
+      {
+        "KillerType": "Turret",
+        "VictimType": "HeavyScientist",
+        "DamageType": "*",
+        "Messages": [
+          "{owner}'s {killer} did its job, killing a {victim}."
+        ]
+      },
+      {
+        "KillerType": "Murderer",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} haunted down {victim}."
+        ]
+      },
+      {
+        "KillerType": "TunnelDweller",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was taken out by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "TunnelDweller",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} took out a {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "TunnelDweller",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} took out a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "UnderwaterDweller",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was taken out by an {killer}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "UnderwaterDweller",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} took out an {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "UnderwaterDweller",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} took out a {victim} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Scientist",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} shot down {victim}."
+        ]
+      },
+      {
+        "KillerType": "HeavyScientist",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} shot down {victim}."
+        ]
+      },
+      {
+        "KillerType": "Scientist",
+        "VictimType": "*",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} shot down a {victim}."
+        ]
+      },
+      {
+        "KillerType": "HeavyScientist",
+        "VictimType": "*",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} shot down a {victim}."
+        ]
+      },
+      {
+        "KillerType": "Sentry",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} broke the rules in a safezone and was killed by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "-",
+        "VictimType": "Player",
+        "DamageType": "Fall",
+        "Messages": [
+          "{victim} fell to their death. Splat!"
+        ]
+      },
+      {
+        "KillerType": "HeatSource",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was grilled on a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Lock",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was electrocuted by {owner}'s {killer}."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{victim} burned to death."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Hunger",
+        "Messages": [
+          "{victim} forgot to eat and hungers for life."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Thirst",
+        "Messages": [
+          "{victim} died of immense thirst."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Radiation",
+        "Messages": [
+          "{victim} had a cheery, radioactive glow. Fatal, but cheery nonetheless."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Cold",
+        "Messages": [
+          "{victim} turned into an ice statue."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Drowned",
+        "Messages": [
+          "As {victim} just found out, breathing underwater is rather difficult."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Animal",
+        "DamageType": "Drowned",
+        "Messages": [
+          "As the {victim} just found out, breathing underwater is rather difficult."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bleeding",
+        "Messages": [
+          "{victim} bled out after being attacked by {killer}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Collision",
+        "Messages": [
+          "{killer} ran over a {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Collision",
+        "Messages": [
+          "{killer} ran over {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Minicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} tragically perished in a {killer} crash."
+        ]
+      },
+      {
+        "KillerType": "ScrapTransportHelicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} tragically perished in a {killer} crash."
+        ]
+      },
+      {
+        "KillerType": "AttackHelicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} tragically perished in a {killer} crash."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Suicide",
+        "Messages": [
+          "{victim} had enough of life."
+        ]
+      }
+    ],
+    "Names": {
+      "Chicken": "Chicken",
+      "Boar": "Boar",
+      "Stag": "Stag",
+      "Bear": "Bear",
+      "Wolf": "Wolf",
+      "Simple Shark": "Shark",
+      "Scientist": "Scientist",
+      "Heavy Scientist": "Heavy Scientist",
+      "HeavyScientist": "Heavy Scientist",
+      "scientistnpc_heavy": "Heavy Scientist",
+      "Helicopter": "Patrol Helicopter",
+      "Bradley APC": "Bradley APC",
+      "Polarbear": "Polar Bear",
+      "Code Lock": "Code Lock",
+      "Fire": "Fire",
+      "Sentry": "Sentry",
+      "Sam Site": "SAM Site",
+      "ScarecrowNPC": "Scarecrow",
+      "Tunnel Dweller": "Tunnel Dweller",
+      "Barbed Wooden Barricade": "Barbed Wooden Barricade",
+      "Barricade": "Barricade",
+      "Auto Turret": "Auto Turret",
+      "Patrol Helicopter": "Patrol Helicopter",
+      "GRAF": "GRAF",
+      "Underwater Dweller": "Underwater Dweller",
+      "Campfire": "Campfire",
+      "Wolf2": "Wolf",
+      "Horse": "Horse",
+      "Landmine": "Landmine",
+      "Tesla Coil": "Tesla Coil",
+      "Gun Trap": "Shotgun Trap",
+      "Flame Turret": "Flame Turret",
+      "GingerbreadNPC": "Gingerbread Man",
+      "ScrapTransportHelicopter": "Scrap Transport Helicopter",
+      "AttackHelicopter": "Attack Helicopter",
+      "Minicopter": "Minicopter",
+      "Metal Barricade": "Metal Barricade",
+      "ZombieNPC": "Zombie",
+      "Bear Trap": "Bear Trap",
+      "Custom Bradley": "Custom Bradley",
+      "Farmable Animal": "Farm Animal",
+      "BeeSwarm": "Bee Swarm",
+      "Custom Animal Npc": "Custom Animal NPC",
+      "Zombie": "Zombie",
+      "Shark": "Shark",
+      "Wooden Floor Spike Cluster": "Wooden Floor Spike Cluster",
+      "Crocodile": "Crocodile",
+      "Snake Hazard": "Snake",
+      "Panther": "Panther",
+      "Tiger": "Tiger",
+      "Ridable Horse": "Horse",
+      "NPCShopKeeper": "Waterwell Shopkeeper",
+      "Giant Excavator Arm": "Giant Excavator Arm",
+      "RikkoMats": "RikkoMats",
+      "Свинья и точка": "Свинья и точка",
+      "Orda#melonrust#BEAST": "Orda#melonrust#BEAST",
+      "Stylio": "Stylio"
+    },
+    "Bodyparts": {
+      "Body": "Body",
+      "Leg": "Leg",
+      "Chest": "Chest",
+      "Stomach": "Stomach",
+      "Head": "Head",
+      "Arm": "Arm",
+      "Hand": "Hand",
+      "Foot": "Foot"
+    },
+    "Weapons": {
+      "Salvaged Sword": "Salvaged Sword",
+      "Revolver": "Revolver",
+      "Salvaged Cleaver": "Salvaged Cleaver",
+      "Mace": "Mace",
+      "Assault Rifle": "Assault Rifle",
+      "Double Barrel Shotgun": "Double Barrel Shotgun",
+      "Bolt Action Rifle": "Bolt Action Rifle",
+      "M92 Pistol": "M92 Pistol",
+      "Custom SMG": "Custom SMG",
+      "LR-300 Assault Rifle": "LR-300 Assault Rifle",
+      "Timed Explosive Charge": "Timed Explosive Charge (C4)",
+      "Pump Shotgun": "Pump Shotgun",
+      "Prototype 17": "Prototype 17",
+      "Hunting Bow": "Hunting Bow",
+      "Thompson": "Thompson",
+      "M39 Rifle": "M39 Rifle",
+      "Hatchet": "Hatchet",
+      "hatchet.entity": "Hatchet",
+      "M4 Shotgun": "M4 Shotgun",
+      "HMLMG": "HMLMG",
+      "l96.entity": "L96 Rifle",
+      "L96 Rifle": "L96 Rifle",
+      "m249.entity": "M249",
+      "M249": "M249",
+      "Pickaxe": "Pickaxe",
+      "Bone Knife": "Bone Knife",
+      "Semi-Automatic Pistol": "Semi-Automatic Pistol",
+      "Stone Hatchet": "Stone Hatchet",
+      "Rock": "Rock",
+      "Skinning Knife": "Skinning Knife",
+      "Crossbow": "Crossbow",
+      "Combat Knife": "Combat Knife",
+      "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+      "MP5A4": "MP5A4",
+      "Jackhammer": "Jackhammer",
+      "SKS": "SKS",
+      "militaryflamethrower.entity": "Military Flamethrower",
+      "High Velocity Rocket": "High Velocity Rocket",
+      "Spas-12 Shotgun": "Spas-12 Shotgun",
+      "knife.combat.entity": "Combat Knife",
+      "2module_car_spawned.entity": "2-module Vehicle",
+      "car_chassis_2module.entity": "2-module Vehicle",
+      "car_2mod_01": "2-module Vehicle",
+      "car_2mod_02": "2-module Vehicle",
+      "car_2mod_03": "2-module Vehicle",
+      "car_2mod_04": "2-module Vehicle",
+      "car_2mod_05": "2-module Vehicle",
+      "car_2mod_06": "2-module Vehicle",
+      "car_2mod_07": "2-module Vehicle",
+      "car_2mod_08": "2-module Vehicle",
+      "3module_car_spawned.entity": "3-module Vehicle",
+      "car_chassis_3module.entity": "3-module Vehicle",
+      "car_3mod_01": "3-module Vehicle",
+      "car_3mod_02": "3-module Vehicle",
+      "car_3mod_03": "3-module Vehicle",
+      "car_3mod_04": "3-module Vehicle",
+      "car_3mod_05": "3-module Vehicle",
+      "car_3mod_06": "3-module Vehicle",
+      "car_3mod_07": "3-module Vehicle",
+      "car_3mod_08": "3-module Vehicle",
+      "car_3mod_09": "3-module Vehicle",
+      "car_3mod_10": "3-module Vehicle",
+      "car_3mod_11": "3-module Vehicle",
+      "car_3mod_12": "3-module Vehicle",
+      "4module_car_spawned.entity": "4-module Vehicle",
+      "car_chassis_4module.entity": "4-module Vehicle",
+      "car_4mod_01": "4-module Vehicle",
+      "car_4mod_02": "4-module Vehicle",
+      "car_4mod_03": "4-module Vehicle",
+      "car_4mod_04": "4-module Vehicle",
+      "car_4mod_05": "4-module Vehicle",
+      "car_4mod_06": "4-module Vehicle",
+      "car_4mod_07": "4-module Vehicle",
+      "car_4mod_08": "4-module Vehicle",
+      "car_4mod_09": "4-module Vehicle",
+      "car_4mod_10": "4-module Vehicle",
+      "car_4mod_11": "4-module Vehicle",
+      "motorbike": "Motorbike",
+      "motorbike_sidecar": "Motorbike with Sidecar",
+      "pedalbike": "Bicycle",
+      "pedaltrike": "Tricycle",
+      "snowmobile": "Snowmobile",
+      "F1 Grenade": "F1 Grenade",
+      "Satchel Charge": "Satchel Charge",
+      "Wooden Spear": "Wooden Spear",
+      "Stone Spear": "Stone Spear",
+      "Compound Bow": "Compound Bow",
+      "Machete": "Machete",
+      "Pitchfork": "Pitchfork",
+      "Stone Pickaxe": "Stone Pickaxe",
+      "stone_pickaxe.entity": "Stone Pickaxe",
+      "Legacy bow": "Legacy Bow",
+      "Rocket": "Rocket",
+      "Incendiary Rocket": "Incendiary Rocket",
+      "Salvaged Axe": "Salvaged Axe",
+      "Torch": "Torch",
+      "pickaxe.entity": "Pickaxe",
+      "Salvaged Hammer": "Salvaged Hammer",
+      "40mm_grenade_he": "40mm HE Grenade",
+      "Minigun": "Minigun",
+      "Assault Rifle - ICE": "Ice Assault Rifle",
+      "Python Revolver": "Python Revolver",
+      "Nailgun": "Nailgun",
+      "Salvaged Icepick": "Salvaged Icepick",
+      "Longsword": "Longsword",
+      "Waterpipe Shotgun": "Waterpipe Shotgun",
+      "Chainsaw": "Chainsaw",
+      "workcart.entity": "Work Cart",
+      "locomotive.entity": "Locomotive",
+      "workcart_aboveground.entity": "Above Ground Work Cart",
+      "Paddle": "Paddle",
+      "workcart_aboveground2.entity": "Above Ground Work Cart",
+      "hammer_salvaged.entity": "Salvaged Hammer",
+      "Multiple Grenade Launcher": "Multiple Grenade Launcher",
+      "minigun.entity": "Minigun",
+      "rocket_mlrs": "MLRS Rocket",
+      "Eoka Pistol": "Eoka Pistol",
+      "High Caliber Revolver": "High Caliber Revolver",
+      "Abyss Assault Rifle": "Abyss Assault Rifle",
+      "Blunderbuss": "Blunderbuss",
+      "Sickle": "Sickle",
+      "Butcher Knife": "Butcher Knife",
+      "pitchfork.entity": "Pitchfork",
+      "Snowball Gun": "Snowball Gun",
+      "vampirestake.entity": "Vampire Stake",
+      "Baseball Bat": "Baseball Bat",
+      "Handmade SMG": "Handmade SMG",
+      "Beancan Grenade": "Beancan Grenade",
+      "Candy Cane Club": "Candy Cane Club",
+      "Snowball": "Snowball",
+      "Flashlight": "Flashlight",
+      "Speargun": "Speargun",
+      "double_shotgun.entity": "Double Barrel Shotgun",
+      "Skull": "Skull",
+      "Mini Crossbow": "Mini Crossbow",
+      "Ice Assault Rifle": "Ice Assault Rifle",
+      "Frontier Hatchet": "Frontier Hatchet",
+      "Medieval Assault Rifle": "Medieval Assault Rifle",
+      "boulder_explosive_deployed": "Propane Explosive Bomb",
+      "Ballista": "Ballista",
+      "boulder_explosive": "Propane Explosive Bomb",
+      "boulder_mid": "Scattershot",
+      "boulder_incendiary": "Firebomb",
+      "Flame Thrower": "Flame Thrower",
+      "grenade.molotov.deployed": "Molotov Cocktail",
+      "Concrete Pickaxe": "Concrete Pickaxe",
+      "Bone Club": "Bone Club",
+      "scraptransporthelicopter": "Scrap Transport Helicopter",
+      "grenade.bee.deployed": "Bee Grenade",
+      "grenade.flashbang.deployed": "Flashbang Grenade",
+      "Lunar New Year Spear": "Lunar New Year Spear",
+      "boulder": "Boulder",
+      "Prototype Hatchet": "Prototype Hatchet",
+      "Concrete Hatchet": "Concrete Hatchet",
+      "Blow Pipe": "Blow Pipe",
+      "boomerang.thrown.entity": "Boomerang",
+      "Obsidian Bone Knife": "Obsidian Bone Knife",
+      "m39.entity": "m39.entity",
+      "Boomerang": "Boomerang"
+    },
+    "Attachments": {
+      "Weapon flashlight": "Weapon Flashlight",
+      "Extended Magazine": "Extended Magazine",
+      "16x Zoom Scope": "16x Zoom Scope",
+      "Weapon Lasersight": "Weapon Lasersight",
+      "Silencer": "Silencer",
+      "8x Zoom Scope": "8x Zoom Scope",
+      "Holosight": "Holosight",
+      "Muzzle Boost": "Muzzle Boost",
+      "Muzzle Brake": "Muzzle Brake",
+      "Simple Handmade Sight": "Simple Handmade Sight",
+      "Gas Compression Overdrive": "Gas Compression Overdrive",
+      "Burst Module": "Burst Module",
+      "Variable Zoom Scope": "Variable Zoom Scope",
+      "Military Silencer": "Military Silencer",
+      "Oil Filter Silencer": "Oil Filter Silencer",
+      "Targeting Attachment": "Targeting Attachment"
+    }
+  },
+  "Variable Formats": {
+    "attachments": " ({value})"
+  },
+  "Variable Colors": {
+    "killer": "#C4FF00",
+    "victim": "#C4FF00",
+    "weapon": "#C4FF00",
+    "attachments": "#C4FF00",
+    "distance": "#C4FF00",
+    "owner": "#C4FF00"
+  },
+  "Chat Format": "<color=#838383>[<color=#80D000>DeathNotes</color>] {message}</color>",
+  "Chat Icon (SteamID)": "76561198077847390",
+  "Show Kills in Console": true,
+  "Show Kills in Chat": true,
+  "Show Kills in Notify": false,
+  "Notify Message Type": 0,
+  "Show Kills in UINotify": false,
+  "UINotify Message Type": 0,
+  "Show Patrol Heli Tags": true,
+  "Patrol Helicopter Tag Message": "{killer} has tagged the {victim} with their {weapon} over a distance of {distance}.",
+  "Show Bradley APC Tags": true,
+  "Bradley Tag Message": "{killer} has tagged the {victim} with their {weapon} over a distance of {distance}.",
+  "Message Broadcast Radius (in meters)": -1,
+  "Use Metric Distance": true,
+  "Require Permission (deathnotes.cansee)": false
+}

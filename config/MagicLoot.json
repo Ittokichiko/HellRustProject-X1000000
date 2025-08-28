@@ -1,0 +1,1389 @@
+{
+  "General Settings": {
+    "General Item List Multiplier (All items in the 'Manual Item Multipliers' List)": 1.0,
+    "Non Item List Multiplier (All items not listed in the 'Manual Item Multipliers' List)": 1.0,
+    "Limit Multipliers to Stacksizes": true,
+    "Multiply Blueprints": false,
+    "Disable Blueprint Drops": false,
+    "Random Workshop Skins": false,
+    "Multiply Tea Buffs": false,
+    "Force Custom Loot Tables for Default Loot on all Containers": false
+  },
+  "Extra Loot": {
+    "Enabled": true,
+    "Extra Items Min": 5,
+    "Extra Items Max": 10,
+    "Prevent Duplicates": true,
+    "Prevent Duplicates Retries": 10,
+    "Force Custom Loot Tables for Extra Loot on all Containers": false
+  },
+  "Blacklisted Items (Item-Shortnames)": [],
+  "Blacklisted Workshop Skins (Workshop Ids)": [],
+  "Manual Item Multipliers (Key: Item-Shortname, Value: Multiplier)": {
+    "aiming.module.mlrs": 50000.0,
+    "bleach": 50000.0,
+    "ducttape": 50000.0,
+    "carburetor1": 50000.0,
+    "carburetor2": 50000.0,
+    "carburetor3": 50000.0,
+    "crankshaft1": 50000.0,
+    "crankshaft2": 50000.0,
+    "crankshaft3": 50000.0,
+    "piston1": 50000.0,
+    "piston2": 50000.0,
+    "piston3": 50000.0,
+    "sparkplug1": 50000.0,
+    "sparkplug2": 8.505E+08,
+    "sparkplug3": 50000.0,
+    "valve1": 50000.0,
+    "valve2": 50000.0,
+    "valve3": 50000.0,
+    "fuse": 50000.0,
+    "gears": 50000.0,
+    "glue": 50000.0,
+    "metalblade": 50000.0,
+    "metalpipe": 50000.0,
+    "propanetank": 50000.0,
+    "roadsigns": 50000.0,
+    "rope": 50000.0,
+    "sewingkit": 50000.0,
+    "sheetmetal": 50000.0,
+    "metalspring": 50000.0,
+    "sticks": 50000.0,
+    "tarp": 50000.0,
+    "techparts": 50000.0,
+    "riflebody": 50000.0,
+    "semibody": 50000.0,
+    "smgbody": 50000.0,
+    "vehicle.chassis.2mod": 8.55E+07,
+    "vehicle.chassis.3mod": 50000.0,
+    "vehicle.chassis.4mod": 50000.0,
+    "vehicle.chassis": 50000.0,
+    "vehicle.1mod.cockpit": 50000.0,
+    "vehicle.1mod.cockpit.armored": 50000.0,
+    "vehicle.1mod.cockpit.with.engine": 50000.0,
+    "vehicle.1mod.engine": 50000.0,
+    "vehicle.1mod.flatbed": 50000.0,
+    "vehicle.1mod.passengers.armored": 50000.0,
+    "vehicle.1mod.rear.seats": 50000.0,
+    "vehicle.1mod.storage": 50000.0,
+    "vehicle.1mod.taxi": 50000.0,
+    "vehicle.2mod.camper": 50000.0,
+    "vehicle.2mod.flatbed": 50000.0,
+    "vehicle.2mod.fuel.tank": 50000.0,
+    "vehicle.2mod.passengers": 50000.0,
+    "vehicle.module": 50000.0,
+    "weapon.mod.burstmodule": 50000.0,
+    "scrap": 50000.0,
+    "cctv.camera": 50000.0,
+    "targeting.computer": 50000.0
+  },
+  "Containers Data (Key: Container-Shortname, Value: Container Settings)": {
+    "oil_barrel": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "vehicle_parts": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot_barrel_1": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 9,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_normal_2": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot_barrel_2": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_tools": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "foodbox": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_food_1": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 8,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_basic": {
+      "Enabled": true,
+      "Extra Items Min": 8,
+      "Extra Items Max": 11,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_underwater_basic": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_underwater_advanced": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "tech_parts_1": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "tech_parts_2": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_normal": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign2": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign8": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign5": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 850.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign7": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign1": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign9": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign4": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 850.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign3": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "roadsign6": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "codelockedhackablecrate_oilrig": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 8,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_elite": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_normal_2_medical": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_normal_2_food": {
+      "Enabled": true,
+      "Extra Items Min": 2,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_food_2": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_ammunition": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_medical": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_fuel": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_mine": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 7,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "minecart": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_basic_jungle": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "food_cache_004": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "beehive.natural": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot-barrel-1": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot-barrel-2": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "trash-pile-1": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_normal_2_medical": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 8,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm medical": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 3,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm tier2 lootbox": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm tier3 lootbox": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_normal_2_food": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm c4": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_normal_2": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "stocking_small_deployed": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "heli_crate": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm tier1 lootbox": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 6,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot_component_test": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "bradley_crate": {
+      "Enabled": true,
+      "Extra Items Min": 6,
+      "Extra Items Max": 7,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "stocking_large_deployed": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "supply_drop": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm ammo": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot_trash": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm res": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_normal": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "giftbox_loot": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "loot-barrel-tutorial": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm construction tools": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm construction resources": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 3,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dm food": {
+      "Enabled": true,
+      "Extra Items Min": 3,
+      "Extra Items Max": 3,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_foodbox": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_tools": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 1.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_vehicle_parts": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "presentdrop": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_elite": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "invisible_crate_basic": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "visualshelvestest": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "codelockedhackablecrate": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "hiddenhackablecrate": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "food_cache_002": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "food_cache_003": {
+      "Enabled": true,
+      "Extra Items Min": 5,
+      "Extra Items Max": 5,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "crate_elite_tutorial": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 1.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "diesel_barrel_world": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "tacklebox": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "missionlootbox_basic": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "food_cache_001": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "xmastunnellootbox": {
+      "Enabled": true,
+      "Extra Items Min": 8,
+      "Extra Items Max": 12,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "missionstash": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "dynamicmissionstash": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "logstash": {
+      "Enabled": true,
+      "Extra Items Min": 0,
+      "Extra Items Max": 0,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "wagon_crate_normal_2_food": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "wagon_crate_normal_2": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "wagon_crate_normal": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "food_cache_005": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 850.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "wagon_crate_normal_2_medical": {
+      "Enabled": true,
+      "Extra Items Min": 4,
+      "Extra Items Max": 4,
+      "Loot Multiplier": 50000.0,
+      "Utilize Vanilla Loot Tables on Default Loot": true,
+      "Utilize Vanilla Loot Tables on Extra Loot": true,
+      "Utilize Random Rarity (depending on Items ALREADY in the container)": true,
+      "Rarity To Use (ONLY if 'Utilize Vanilla Loot Tables' is FALSE & 'Utilize Random Rarity' is FALSE | 0 = None, 1 = Common, 2 = Uncommon, 3 = Rare, 4 = Very Rare)": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "Debug": false
+}

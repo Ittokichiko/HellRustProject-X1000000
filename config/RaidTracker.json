@@ -1,0 +1,1542 @@
+{
+  "debug": false,
+  "chatIconID": 76561199278762587,
+  "deleteDataOnWipe": true,
+  "daysBeforeDelete": 7.0,
+  "searchRadius": 50.0,
+  "drawDuration": 30.0,
+  "ignoreBuildingGrades": {
+    "Twigs": true,
+    "Wood": false,
+    "Stone": false,
+    "Metal": false,
+    "TopTier": false
+  },
+  "ignoreSameOwner": true,
+  "ignoreTeamMember": true,
+  "ignoreClanMemberOrAlly": true,
+  "enableNewTrackers": true,
+  "printToClientConsole": true,
+  "playerViewExplosionsCommand": {
+    "drawAttackerName": false,
+    "ignoreRaidEventsLessThanMinutes": 30.0
+  },
+  "notificationCooldown": {
+    "enabled": false,
+    "cooldown": 300.0
+  },
+  "discord": {
+    "webhookURL": "https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks",
+    "simpleMessage": {
+      "enabled": false,
+      "message": "{attackerName}[{attackerSteamID}] is raiding {victimName}[{victimSteamID}] ~ {weaponName} -> {raidEventType} {entityItemName} ({entityShortname}) @ {gridPos} (teleportpos {teleportPos})"
+    },
+    "embed": {
+      "title": "{attackerName} is raiding {victimName} @ {gridPos}",
+      "thumbnail": {
+        "newUrl": "https://cdn.rusthelp.com/images/public/128/{weaponItemShortname}.png"
+      },
+      "fields": [
+        {
+          "name": "Weapon",
+          "value": "{weaponName} ({raidTrackerCategory} / {weaponShortname})",
+          "inline": false
+        },
+        {
+          "name": "Entity",
+          "value": "{raidEventType} {entityItemName} ({entityShortname})",
+          "inline": false
+        },
+        {
+          "name": "Attacker",
+          "value": "{attackerName} \n[Steam Profile](https://steamcommunity.com/profiles/{attackerSteamID}) ({attackerSteamID})\n[SteamID.uk](https://steamid.uk/profile/{attackerSteamID})\n\n**Attacker Team**\n{attackerTeamName}",
+          "inline": true
+        },
+        {
+          "name": "Victim",
+          "value": "{victimName} \n[Steam Profile](https://steamcommunity.com/profiles/{victimSteamID}) ({victimSteamID})\n[SteamID.uk](https://steamid.uk/profile/{victimSteamID})\n\n**Victim Team**\n{victimTeamName}",
+          "inline": true
+        },
+        {
+          "name": "Location",
+          "value": "{gridPos} - teleportpos {teleportPos}",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "Raid Tracker {0} by Mabel",
+        "icon_url": "https://i.imgur.com/DluJ5X5.png"
+      }
+    }
+  },
+  "trackers": {
+    "_global": {
+      "*": {
+        "enabled": false,
+        "name": "Enable all trackers in every category",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      }
+    },
+    "entity_collision": {
+      "*": {
+        "enabled": false,
+        "name": "Enable all 'entity_collision' trackers",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "40mm_grenade_he": {
+        "enabled": true,
+        "name": "40mm HE Grenade",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "40mm_grenade_smoke": {
+        "enabled": false,
+        "name": "40mm Smoke Grenade",
+        "hexColor": "#4B4B4B",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder": {
+        "enabled": true,
+        "name": "Scattershot",
+        "hexColor": "#5F4D90",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_bee": {
+        "enabled": true,
+        "name": "Bee Catapult Bomb",
+        "hexColor": "#952BA1",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_explosive": {
+        "enabled": false,
+        "name": "Propane Explosive Bomb",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_explosive_deployed": {
+        "enabled": true,
+        "name": "boulder_explosive_deployed",
+        "hexColor": "#537AEF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_incendiary": {
+        "enabled": false,
+        "name": "Firebomb",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_incendiary_deployed": {
+        "enabled": true,
+        "name": "boulder_incendiary_deployed",
+        "hexColor": "#A33CA1",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_mid": {
+        "enabled": false,
+        "name": "Scattershot",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_small": {
+        "enabled": false,
+        "name": "Scattershot",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "explosive.satchel.deployed": {
+        "enabled": true,
+        "name": "Satchel Charge",
+        "hexColor": "#BA9500",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "explosive.timed.deployed": {
+        "enabled": true,
+        "name": "C4",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.beancan.deployed": {
+        "enabled": false,
+        "name": "Beancan Grenade",
+        "hexColor": "#BA9500",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.bee.deployed": {
+        "enabled": true,
+        "name": "Bee Grenade",
+        "hexColor": "#9786E9",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.f1.deployed": {
+        "enabled": false,
+        "name": "F1 Grenade",
+        "hexColor": "#538C4F",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.flashbang.deployed": {
+        "enabled": false,
+        "name": "Flashbang",
+        "hexColor": "#4B4B4B",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.molotov.deployed": {
+        "enabled": true,
+        "name": "Molotov Cocktail",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.smoke.deployed": {
+        "enabled": false,
+        "name": "Smoke Grenade",
+        "hexColor": "#4B4B4B",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.supplysignal.deployed": {
+        "enabled": true,
+        "name": "Supply Signal",
+        "hexColor": "#B867FF",
+        "alwaysLog": true,
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_basic": {
+        "enabled": true,
+        "name": "Rocket",
+        "hexColor": "#B867FF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_fire": {
+        "enabled": true,
+        "name": "Incendiary Rocket",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_heatseeker": {
+        "enabled": true,
+        "name": "Homing Missile",
+        "hexColor": "#2CAD25",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_hv": {
+        "enabled": true,
+        "name": "High Velocity Rocket",
+        "hexColor": "#528EFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_mlrs": {
+        "enabled": true,
+        "name": "MLRS Rocket",
+        "hexColor": "#FF5764",
+        "alwaysLog": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rocket_sam": {
+        "enabled": true,
+        "name": "rocket_sam",
+        "hexColor": "#8DD266",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "survey_charge.deployed": {
+        "enabled": false,
+        "name": "Survey Charge",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "torpedostraight": {
+        "enabled": true,
+        "name": "Torpedo",
+        "hexColor": "#3FD861",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      }
+    },
+    "entity_death_ammo": {
+      "*": {
+        "enabled": false,
+        "name": "Enable all 'entity_death_ammo' trackers",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.grenadelauncher.buckshot": {
+        "enabled": true,
+        "name": "40mm Shotgun Round",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.handmade.shell": {
+        "enabled": true,
+        "name": "Handmade Shell",
+        "hexColor": "#FFC880",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.nailgun.nails": {
+        "enabled": true,
+        "name": "Nailgun Nails",
+        "hexColor": "#528EFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.pistol": {
+        "enabled": true,
+        "name": "Pistol Ammo",
+        "hexColor": "#FFC880",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.pistol.fire": {
+        "enabled": true,
+        "name": "Inc Pistol Ammo",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.pistol.hv": {
+        "enabled": true,
+        "name": "HV Pistol Ammo",
+        "hexColor": "#528EFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rifle": {
+        "enabled": true,
+        "name": "Rifle Ammo",
+        "hexColor": "#FFC880",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rifle.explosive": {
+        "enabled": true,
+        "name": "Exp Rifle Ammo",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rifle.hv": {
+        "enabled": true,
+        "name": "HV Rifle Ammo",
+        "hexColor": "#528EFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rifle.incendiary": {
+        "enabled": true,
+        "name": "Inc Rifle Ammo",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.shotgun": {
+        "enabled": true,
+        "name": "12 Gauge Buckshot",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.shotgun.fire": {
+        "enabled": true,
+        "name": "12 Gauge Inc Shell",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.shotgun.slug": {
+        "enabled": true,
+        "name": "12 Gauge Slug",
+        "hexColor": "#3DBF39",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.snowballgun": {
+        "enabled": true,
+        "name": "Snowball",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "arrow.bone": {
+        "enabled": true,
+        "name": "Bone Arrow",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "arrow.fire": {
+        "enabled": true,
+        "name": "Fire Arrow",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "arrow.hv": {
+        "enabled": true,
+        "name": "High Velocity Arrow",
+        "hexColor": "#528EFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "arrow.wooden": {
+        "enabled": true,
+        "name": "Wooden Arrow",
+        "hexColor": "#FFC880",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ballista.bolt.hammerhead": {
+        "enabled": false,
+        "name": "Hammerhead Bolt",
+        "hexColor": "#7E7E7E",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ballista.bolt.piercer": {
+        "enabled": false,
+        "name": "Piercer Bolt",
+        "hexColor": "#7E7E7E",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ballista.bolt.pitchfork": {
+        "enabled": false,
+        "name": "Pitchfork Bolt",
+        "hexColor": "#7E7E7E",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.boulder": {
+        "enabled": true,
+        "name": "Scattershot",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.explosive": {
+        "enabled": true,
+        "name": "Propane Explosive Bomb",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.incendiary": {
+        "enabled": true,
+        "name": "Firebomb",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "speargun.spear": {
+        "enabled": false,
+        "name": "Speargun Spear",
+        "hexColor": "#7E7E7E",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      }
+    },
+    "entity_death_fire": {
+      "*": {
+        "enabled": false,
+        "name": "Enable all 'entity_death_fire' trackers",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fire_damage": {
+        "enabled": true,
+        "name": "Fire",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball": {
+        "enabled": true,
+        "name": "Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_ballista": {
+        "enabled": true,
+        "name": "Ballista Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_catapult": {
+        "enabled": true,
+        "name": "Catapult Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_small": {
+        "enabled": true,
+        "name": "Small Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_small_arrow": {
+        "enabled": true,
+        "name": "Arrow Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_small_molotov": {
+        "enabled": true,
+        "name": "Molotov Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "fireball_small_shotgun": {
+        "enabled": true,
+        "name": "Shotgun Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "flameturret_fireball": {
+        "enabled": true,
+        "name": "Flame Turret Fireball",
+        "hexColor": "#FF8C24",
+        "discordIcon": "https://i.imgur.com/dBqgQv9.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "oilfireballsmall": {
+        "enabled": true,
+        "name": "oilfireballsmall",
+        "hexColor": "#F8B043",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      }
+    },
+    "entity_death_weapon": {
+      "*": {
+        "enabled": false,
+        "name": "Enable all 'entity_death_weapon' trackers",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.grenadelauncher.he": {
+        "enabled": false,
+        "name": "40mm HE Grenade",
+        "hexColor": "#FF5764",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rocket.basic": {
+        "enabled": false,
+        "name": "Rocket",
+        "hexColor": "#B867FF",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rocket.fire": {
+        "enabled": false,
+        "name": "Incendiary Rocket",
+        "hexColor": "#FF8C24",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rocket.hv": {
+        "enabled": false,
+        "name": "High Velocity Rocket",
+        "hexColor": "#528EFF",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ammo.rocket.mlrs": {
+        "enabled": false,
+        "name": "MLRS Rocket",
+        "hexColor": "#FF5764",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "axe.salvaged": {
+        "enabled": true,
+        "name": "Salvaged Axe",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ballista.mounted": {
+        "enabled": false,
+        "name": "Mounted Ballista",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "ballista.static": {
+        "enabled": false,
+        "name": "Ballista",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "batteringram.entity": {
+        "enabled": false,
+        "name": "Battering Ram",
+        "hexColor": "#4DBEFF",
+        "discordIcon": "https://cdn.rusthelp.com/images/public/128/batteringram.png",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "bone.club": {
+        "enabled": true,
+        "name": "Bone Club",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boomerang": {
+        "enabled": true,
+        "name": "Boomerang",
+        "hexColor": "#B95AAD",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "boulder_explosive_deployed": {
+        "enabled": true,
+        "name": "boulder_explosive_deployed",
+        "hexColor": "#4A3A95",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "bow.compound": {
+        "enabled": false,
+        "name": "Compound Bow",
+        "hexColor": "#B867FF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "bow.hunting": {
+        "enabled": false,
+        "name": "Hunting Bow",
+        "hexColor": "#B867FF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "candycaneclub": {
+        "enabled": true,
+        "name": "Candy Cane Club",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult": {
+        "enabled": true,
+        "name": "Catapult",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.boulder": {
+        "enabled": true,
+        "name": "Scattershot",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.explosive": {
+        "enabled": true,
+        "name": "Propane Explosive Bomb",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "catapult.ammo.incendiary": {
+        "enabled": true,
+        "name": "Firebomb",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "chainsaw": {
+        "enabled": true,
+        "name": "Chainsaw",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "concretehatchet": {
+        "enabled": true,
+        "name": "Concrete Hatchet",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "concretepickaxe": {
+        "enabled": true,
+        "name": "Concrete Pickaxe",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "crossbow": {
+        "enabled": false,
+        "name": "Crossbow",
+        "hexColor": "#B867FF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "explosive.satchel": {
+        "enabled": false,
+        "name": "Satchel Charge",
+        "hexColor": "#BA9500",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "explosive.timed": {
+        "enabled": false,
+        "name": "C4",
+        "hexColor": "#FF5764",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "flamethrower": {
+        "enabled": true,
+        "name": "Flame Thrower",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "flashlight.held": {
+        "enabled": true,
+        "name": "Flashlight",
+        "hexColor": "#212121",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "frontier_hatchet": {
+        "enabled": true,
+        "name": "Frontier Hatchet",
+        "hexColor": "#7667BB",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.beancan": {
+        "enabled": true,
+        "name": "Beancan Grenade",
+        "hexColor": "#BA9500",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.f1": {
+        "enabled": true,
+        "name": "F1 Grenade",
+        "hexColor": "#538C4F",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.flashbang": {
+        "enabled": true,
+        "name": "Flashbang",
+        "hexColor": "#4B4B4B",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "grenade.molotov": {
+        "enabled": true,
+        "name": "Molotov Cocktail",
+        "hexColor": "#FF8C24",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "hammer.salvaged": {
+        "enabled": true,
+        "name": "Salvaged Hammer",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "hatchet": {
+        "enabled": true,
+        "name": "Hatchet",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "hmlmg": {
+        "enabled": false,
+        "name": "HMLMG",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "icepick.salvaged": {
+        "enabled": true,
+        "name": "Salvaged Icepick",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "jackhammer": {
+        "enabled": true,
+        "name": "Jackhammer",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "knife.bone": {
+        "enabled": true,
+        "name": "Bone Knife",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "knife.butcher": {
+        "enabled": true,
+        "name": "Butcher Knife",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "knife.combat": {
+        "enabled": true,
+        "name": "Combat Knife",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "lmg.m249": {
+        "enabled": false,
+        "name": "M249",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "longsword": {
+        "enabled": true,
+        "name": "Longsword",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "lumberjack.hatchet": {
+        "enabled": true,
+        "name": "Prototype Hatchet",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "lumberjack.pickaxe": {
+        "enabled": true,
+        "name": "Prototype Pickaxe",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "mace": {
+        "enabled": true,
+        "name": "Mace",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "mace.baseballbat": {
+        "enabled": true,
+        "name": "Baseball Bat",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "machete": {
+        "enabled": true,
+        "name": "Machete",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "military flamethrower": {
+        "enabled": true,
+        "name": "Military Flame Thrower",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "minigun": {
+        "enabled": true,
+        "name": "Minigun",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "multiplegrenadelauncher": {
+        "enabled": false,
+        "name": "Multiple Grenade Launcher",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "paddle": {
+        "enabled": true,
+        "name": "Paddle",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pickaxe": {
+        "enabled": true,
+        "name": "Pickaxe",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.eoka": {
+        "enabled": true,
+        "name": "Eoka Pistol",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.m92": {
+        "enabled": false,
+        "name": "M92 Pistol",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.nailgun": {
+        "enabled": true,
+        "name": "Nailgun",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.prototype17": {
+        "enabled": true,
+        "name": "Prototype 17",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.python": {
+        "enabled": false,
+        "name": "Python Revolver",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.revolver": {
+        "enabled": false,
+        "name": "Revolver",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pistol.semiauto": {
+        "enabled": false,
+        "name": "Semi-Automatic Pistol",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "pitchfork": {
+        "enabled": true,
+        "name": "Pitchfork",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "revolver.hc": {
+        "enabled": true,
+        "name": "High Caliber Revolver",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.ak": {
+        "enabled": false,
+        "name": "Assault Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.ak.diver": {
+        "enabled": false,
+        "name": "Abyss Assault Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.ak.ice": {
+        "enabled": false,
+        "name": "Ice Assault Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.ak.med": {
+        "enabled": false,
+        "name": "Medieval Assault Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.bolt": {
+        "enabled": false,
+        "name": "Bolt Action Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.l96": {
+        "enabled": false,
+        "name": "L96 Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.lr300": {
+        "enabled": false,
+        "name": "LR-300 Assault Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.m39": {
+        "enabled": false,
+        "name": "M39 Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.semiauto": {
+        "enabled": false,
+        "name": "Semi-Automatic Rifle",
+        "hexColor": "#FF5764",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rifle.sks": {
+        "enabled": true,
+        "name": "SKS",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "rock": {
+        "enabled": true,
+        "name": "Rock",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "salvaged.cleaver": {
+        "enabled": true,
+        "name": "Salvaged Cleaver",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "salvaged.sword": {
+        "enabled": true,
+        "name": "Salvaged Sword",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "shotgun.double": {
+        "enabled": false,
+        "name": "Double Barrel Shotgun",
+        "hexColor": "#3DBF39",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "shotgun.pump": {
+        "enabled": false,
+        "name": "Pump Shotgun",
+        "hexColor": "#3DBF39",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "shotgun.spas12": {
+        "enabled": false,
+        "name": "Spas-12 Shotgun",
+        "hexColor": "#3DBF39",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "shotgun.waterpipe": {
+        "enabled": false,
+        "name": "Waterpipe Shotgun",
+        "hexColor": "#3DBF39",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "sickle": {
+        "enabled": true,
+        "name": "Sickle",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "smg.2": {
+        "enabled": false,
+        "name": "Custom SMG",
+        "hexColor": "#365EEF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "smg.mp5": {
+        "enabled": false,
+        "name": "MP5A4",
+        "hexColor": "#365EEF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "smg.thompson": {
+        "enabled": false,
+        "name": "Thompson",
+        "hexColor": "#365EEF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "snowballgun": {
+        "enabled": false,
+        "name": "Snowball Gun",
+        "hexColor": "#3E8E91",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "spear.stone": {
+        "enabled": true,
+        "name": "Stone Spear",
+        "hexColor": "#CB60DB",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "spear.wooden": {
+        "enabled": true,
+        "name": "Wooden Spear",
+        "hexColor": "#CB60DB",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "speargun": {
+        "enabled": true,
+        "name": "Speargun",
+        "hexColor": "#CB60DB",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "stone.pickaxe": {
+        "enabled": true,
+        "name": "Stone Pickaxe",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "stonehatchet": {
+        "enabled": true,
+        "name": "Stone Hatchet",
+        "hexColor": "#4DBEFF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "surveycharge": {
+        "enabled": false,
+        "name": "Survey Charge",
+        "hexColor": "#212121",
+        "shortArrow": true,
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "t1_smg": {
+        "enabled": false,
+        "name": "Handmade SMG",
+        "hexColor": "#365EEF",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "torch": {
+        "enabled": true,
+        "name": "Torch",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      },
+      "torch.torch.skull": {
+        "enabled": true,
+        "name": "Cultist Deer Torch",
+        "hexColor": "#FF8C24",
+        "notifyConsole": false,
+        "notifyAdmin": false,
+        "notifyDiscord": false,
+        "logToFile": false
+      }
+    }
+  },
+  "eventTypes": {
+    "EVENT.ATTACHED": "attached to",
+    "EVENT.BURNT": "burnt",
+    "EVENT.DESTROYED": "destroyed",
+    "EVENT.HIT": "hit",
+    "EVENT.NO_HIT": "no hit"
+  }
+}

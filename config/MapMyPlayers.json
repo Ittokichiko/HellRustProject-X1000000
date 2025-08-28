@@ -1,0 +1,16 @@
+{
+  "Chat Settings": {
+    "Prefix": "[MMP] :",
+    "PrefixColor": "#008000",
+    "SteamIDIcon": "76561198190843170"
+  },
+  "Markers": {
+    "radius size (0.2 by default)": "0.2"
+  },
+  "Markers Label": {
+    "Show player steam ID": "false"
+  },
+  "Refresh Rate": {
+    "Value in seconds": "2"
+  }
+}

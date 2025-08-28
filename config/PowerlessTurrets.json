@@ -1,0 +1,6 @@
+{
+  "Range at which turrets can be toggled": 10.0,
+  "Command for toggling individual turrets": "pt",
+  "Command for toggling turrets in TC zone": "turret.tc",
+  "Command for toggling sams in TC zone": "sam.tc"
+}

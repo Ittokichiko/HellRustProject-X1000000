@@ -1,0 +1,18 @@
+{
+  "[UI] Chat commands": [
+    "report",
+    "reports"
+  ],
+  "[UI] Report reasons": [
+    "Cheat",
+    "Abusive",
+    "Spam"
+  ],
+  "[UI] Cooldown between reports (seconds)": 45,
+  "[UI] Auto-parse reports from F7 (ingame reports)": false,
+  "[Discord] Webhook to send reports": "https://discord.com/api/webhooks/1407255926263513130/Kv5PpDLKzrojUa2NfLB6C9VeemN-veTg18TfzMEgPCotT7MIVcr1C_wu0NAaGG1E1_rc",
+  "[Discord-Translations] Nickname field": "Nickname",
+  "[Discord-Translations] Reason field": "Reason",
+  "[Discord-Translations] Comment field": "Comment",
+  "[Discord-Translations] Report sent text": "Report sent"
+}

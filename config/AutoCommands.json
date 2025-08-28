@@ -1,0 +1,60 @@
+{
+  "Run commands on player connect": true,
+  "Commands on connect": [
+    "o.grant user $player.id quicksmelt.use",
+    "o.grant user $player.id backpacks.use",
+    "o.grant user $player.id backpacks.gui",
+    "o.grant user $player.id backpacks.size.144",
+    "o.grant user $player.id instantcraft.use",
+    "o.grant user $player.id bgrade.all",
+    "o.grant user $player.id blueprintmanager.all",
+    "o.grant user $player.id blueprintmanager.Attire",
+    "o.grant user $player.id blueprintmanager.Misc",
+    "o.grant user $player.id blueprintmanager.Items",
+    "o.grant user $player.id blueprintmanager.Ammunition",
+    "o.grant user $player.id blueprintmanager.Construction",
+    "o.grant user $player.id blueprintmanager.Component",
+    "o.grant user $player.id blueprintmanager.Traps",
+    "o.grant user $player.id blueprintmanager.Electrical",
+    "o.grant user $player.id blueprintmanager.Fun",
+    "o.grant user $player.id blueprintmanager.Tool",
+    "o.grant user $player.id blueprintmanager.Weapon",
+    "o.grant user $player.id blueprintmanager.Resources",
+    "o.grant user $player.id blueprintmanager.Medical",
+    "o.grant user $player.id bedscooldowns.vip3",
+    "o.grant user $player.id powerlessturrets.use",
+    "o.grant user $player.id spawnheli.minicopter.spawn",
+    "o.grant user $player.id spawnheli.minicopter.nocooldown",
+    "o.grant user $player.id spawnheli.minicopter.despawn",
+    "o.grant user $player.id spawnheli.minicopter.unlimitedfuel",
+    "o.grant user $player.id spawnheli.minicopter.fetch",
+    "o.grant user $player.id instantstartup.use",
+    "o.grant user $player.id noheliflyhack.use",
+    "o.grant user $player.id nteleportation.home",
+    "o.grant user $player.id nteleportation.tpb",
+    "o.grant user $player.id nteleportation.tpr",
+    "o.grant user $player.id nteleportation.tptown",
+    "o.grant user $player.id nteleportation.tpoutpost",
+    "o.grant user $player.id nteleportation.tpbandit",
+    "o.grant user $player.id nteleportation.tpisland",
+    "o.grant user $player.id guishop.use",
+    "o.grant user $player.id imperium.factions",
+    "o.grant user $player.id privatemessages.allow",
+    "o.grant user $player.id trade.use",
+    "o.grant user $player.id trade.accept"
+  ],
+  "Run commands on player disconnect": false,
+  "Commands on disconnect": [
+    "examplecmd",
+    "example.cmd \"text example\""
+  ],
+  "Run commands on server startup": true,
+  "Commands on server startup": [
+    "o.load GUIShop"
+  ],
+  "Run commands on server wipe": false,
+  "Commands on server wipe": [
+    "examplecmd arg",
+    "example.cmd \"text example\""
+  ]
+}

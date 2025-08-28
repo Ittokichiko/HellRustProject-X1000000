@@ -1,0 +1,45 @@
+{
+  "MinHipAimCone": 0.0,
+  "MaxHipAimCone": 0.0,
+  "MinAimSway": 0.0,
+  "MaxAimSway": 0.0,
+  "MinAimSwaySpeed": 0.0,
+  "MaxAimSwaySpeed": 0.0,
+  "Attachments": {
+    "weapon.mod.holosight": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.lasersight": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.silencer": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.muzzlebrake": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.flashlight": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.burstmodule": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": 0.0,
+      "AimSwaySpeedMult": 0.0
+    },
+    "weapon.mod.muzzlebreak": {
+      "HipAimConeMult": 0.0,
+      "AimSwayMult": -5.0,
+      "AimSwaySpeedMult": -5.0
+    }
+  }
+}

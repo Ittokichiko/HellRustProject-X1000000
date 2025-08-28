@@ -1,0 +1,16 @@
+{
+  "File": {
+    "Enabled": false
+  },
+  "Sqlite": {
+    "Enabled": true
+  },
+  "MySql": {
+    "Enabled": false,
+    "Host": "localhost",
+    "Port": 3306,
+    "Database": "uCore",
+    "Username": "root",
+    "Password": ""
+  }
+}
