@@ -1,0 +1,5 @@
+{
+  "Notify player of rename": true,
+  "Persistence for renames": true,
+  "Prevent admin renames": true
+}

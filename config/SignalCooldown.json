@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "Auth level admin commands": 1,
+    "Cooldown in seconds": 3888000,
+    "Icon for message": 0,
+    "Ignore cooldown permission": "signalcooldown.ignore",
+    "Refund signal": true
+  }
+}

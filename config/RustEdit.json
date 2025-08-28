@@ -1,0 +1,46 @@
+{
+  "Automatic Updates": {
+    "Enabled": true
+  },
+  "Spawn Handlers": {
+    "Enable loot container spawn handlers": true,
+    "Enable resource spawn handlers": true,
+    "Enable NPC spawn handlers": true,
+    "Enable APC spawn handlers": true
+  },
+  "Respawn Times": {
+    "Default loot containers": {
+      "Minimum (minutes)": 55,
+      "Maximum (minutes)": 55
+    },
+    "Desk keycard": {
+      "Minimum (minutes)": 3,
+      "Maximum (minutes)": 15
+    },
+    "Diesel Collectable": {
+      "Minimum (minutes)": 3,
+      "Maximum (minutes)": 3
+    },
+    "Junk piles": {
+      "Minimum (minutes)": 40,
+      "Maximum (minutes)": 40
+    },
+    "Resources": {
+      "Minimum (minutes)": 5,
+      "Maximum (minutes)": 5
+    },
+    "Traps/Barricades (Respawn/Re-Arm)": {
+      "Minimum (minutes)": 35,
+      "Maximum (minutes)": 35
+    },
+    "Vehicles": {
+      "Minimum (minutes)": 25,
+      "Maximum (minutes)": 25
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 54
+  }
+}

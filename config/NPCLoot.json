@@ -1,0 +1,236 @@
+{
+  "LootTables": {
+    "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab": {
+      "Weapon [Shortname]": null,
+      "BotSkins": [
+        {
+          "itemID": 809942731,
+          "skin": 0
+        },
+        {
+          "itemID": -1108136649,
+          "skin": 0
+        },
+        {
+          "itemID": 1751045826,
+          "skin": 0
+        },
+        {
+          "itemID": 1722154847,
+          "skin": 0
+        },
+        {
+          "itemID": 1850456855,
+          "skin": 0
+        },
+        null,
+        null
+      ],
+      "LootTables": [
+        {
+          "minItemAmount": 7,
+          "maxItemAmount": 7,
+          "items": [
+            {
+              "shortName": "catapult",
+              "itemID": 1145722690,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "rifle.ak",
+              "itemID": 1545779598,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "lmg.m249",
+              "itemID": -2069578888,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "rifle.lr300",
+              "itemID": -1812555177,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "techparts",
+              "itemID": 73681876,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "ammo.grenadelauncher.he",
+              "itemID": 349762871,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "multiplegrenadelauncher",
+              "itemID": -1123473824,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            }
+          ]
+        }
+      ]
+    },
+    "assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab": {
+      "Weapon [Shortname]": null,
+      "BotSkins": [
+        {
+          "itemID": 1659114910,
+          "skin": 0
+        },
+        {
+          "itemID": -48090175,
+          "skin": 0
+        },
+        {
+          "itemID": 1366282552,
+          "skin": 0
+        },
+        {
+          "itemID": 237239288,
+          "skin": 0
+        },
+        null,
+        null,
+        null
+      ],
+      "LootTables": [
+        {
+          "minItemAmount": 8,
+          "maxItemAmount": 8,
+          "items": [
+            {
+              "shortName": "rifle.ak",
+              "itemID": 1545779598,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "ammo.grenadelauncher.buckshot",
+              "itemID": 1055319033,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "ammo.grenadelauncher.he",
+              "itemID": 349762871,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "ammo.grenadelauncher.smoke",
+              "itemID": 915408809,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "keycard_blue",
+              "itemID": -484206264,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "keycard_green",
+              "itemID": 37122747,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "keycard_red",
+              "itemID": -1880870149,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            },
+            {
+              "shortName": "multiplegrenadelauncher",
+              "itemID": -1123473824,
+              "skin": 0,
+              "minAmount": 50000000,
+              "maxAmount": 50000000,
+              "minCondition": 100,
+              "maxCondition": 100,
+              "dropChance": 100,
+              "isBlueprint": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

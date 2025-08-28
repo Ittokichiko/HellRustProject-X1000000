@@ -1,0 +1,24 @@
+{
+  "Block Airdrops spawned by the server": true,
+  "Block Cargo Ships spawned by the server": true,
+  "Block Chinooks spawned by the server": true,
+  "Block Patrol Helicopters spawned by the server": true,
+  "Event Timers in seconds": {
+    "Airdrop": {
+      "Max": 14400.0,
+      "Min": 14400.0
+    },
+    "Cargo": {
+      "Max": 7200.0,
+      "Min": 7200.0
+    },
+    "Chinook": {
+      "Max": 14400.0,
+      "Min": 14400.0
+    },
+    "Helicopter": {
+      "Max": 18000.0,
+      "Min": 18000.0
+    }
+  }
+}

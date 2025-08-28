@@ -1,0 +1,103 @@
+{
+  "Messages": {
+    "Dispensers": "Resource Dispensers",
+    "Excavators": "Excavators",
+    "HelpText": "/gather - Shows you detailed gather information.",
+    "HelpTextAdmin": "To change the resources gained by gathering use the command:\r\ngather.rate <type:dispenser|pickup|quarry|survey> <resource> <multiplier>\r\nTo change the amount of resources in a dispenser type use the command:\r\ndispenser.scale <dispenser:tree|ore|corpse> <multiplier>\r\nTo change the time between Mining Quarry gathers:\r\nquarry.tickrate <seconds>",
+    "HelpTextMiningQuarrySpeed": "Time between Mining Quarry gathers: {0} second(s).",
+    "HelpTextPlayer": "Resources gained from gathering have been scaled to the following:",
+    "HelpTextPlayerDefault": "Default values.",
+    "HelpTextPlayerGains": "Resources gained from {0}:",
+    "InvalidArgumentsDispenserType": "Invalid arguments supplied! Use dispenser.scale <dispenser:tree|ore|corpse> <multiplier>",
+    "InvalidArgumentsGather": "Invalid arguments supplied! Use gather.rate <type:dispenser|pickup|quarry|excavator|survey> <resource> <multiplier>",
+    "InvalidArgumentsMiningQuarrySpeed": "Invalid arguments supplied! Use quarry.rate <time between gathers in seconds>",
+    "InvalidDispenser": "{0} is not a valid dispenser. Check gather.dispensers for a list of available options.",
+    "InvalidMiningQuarrySpeed": "You can't set the speed lower than 1 second!",
+    "InvalidModifier": "Invalid modifier supplied! The new modifier always needs to be bigger than 0!",
+    "InvalidResource": "{0} is not a valid resource. Check gather.resources for a list of available options.",
+    "MiningQuarries": "Mining Quarries",
+    "ModifyDispenser": "You have set the resource amount for {0} dispensers to x{1}",
+    "ModifyMiningQuarrySpeed": "The Mining Quarry will now provide resources every {0} seconds.",
+    "ModifyResource": "You have set the gather rate for {0} to x{1} from {2}.",
+    "ModifyResourceRemove": "You have reset the gather rate for {0} from {1}.",
+    "NotAllowed": "You don't have permission to use this command.",
+    "Pickups": "pickups",
+    "SurveyCharges": "Survey Charges"
+  },
+  "Options": {
+    "ExcavatorBeltSpeedMax": 0.1,
+    "ExcavatorResourceModifiers": {
+      "High Quality Metal Ore": 6000000.0,
+      "Metal Fragments": 6000000.0,
+      "Stones": 6000000.0,
+      "Sulfur Ore": 6000000.0
+    },
+    "ExcavatorResourceTickRate": 3.0,
+    "ExcavatorTimeForFullResources": 120.0,
+    "GatherDispenserModifiers": {},
+    "GatherResourceModifiers": {
+      "Animal Fat": 5000000.0,
+      "Bone Fragments": 5000000.0,
+      "Cloth": 5000000.0,
+      "High Quality Metal Ore": 50000000.0,
+      "Honeycomb": 5000000.0,
+      "Leather": 5000000.0,
+      "Metal Ore": 50000000.0,
+      "Raw Bear Meat": 5000000.0,
+      "Raw Big Cat Meat": 5000000.0,
+      "Raw Crocodile Meat": 5000000.0,
+      "Raw Horse Meat": 5000000.0,
+      "Raw Pork": 5000000.0,
+      "Raw Wolf Meat": 5000000.0,
+      "Stones": 50000000.0,
+      "Sulfur Ore": 50000000.0,
+      "Wolf Skull": 5000000.0,
+      "Wood": 50000000.0
+    },
+    "MiningQuarryResourceTickRate": 5.0,
+    "PickupResourceModifiers": {
+      "Blue Berry": 50000000.0,
+      "Blue Berry Clone": 50000000.0,
+      "Blue Berry Seed": 5000000.0,
+      "Cloth": 50000000.0,
+      "Corn": 5000000.0,
+      "Corn Seed": 5000000.0,
+      "Diesel Fuel": 5000000.0,
+      "Green Berry": 50000000.0,
+      "Green Berry Clone": 50000000.0,
+      "Green Berry Seed": 5000000.0,
+      "Hemp Seed": 5000000.0,
+      "Honeycomb": 5000000.0,
+      "Metal Ore": 5000000.0,
+      "Potato": 5000000.0,
+      "Potato Seed": 5000000.0,
+      "Pumpkin": 5000000.0,
+      "Pumpkin Seed": 5000000.0,
+      "Raw Pork": 5000000.0,
+      "Red Berry": 50000000.0,
+      "Red Berry Clone": 50000000.0,
+      "Red Berry Seed": 5000000.0,
+      "Stones": 5000000.0,
+      "Sulfur Ore": 5000000.0,
+      "Wheat": 5000000.0,
+      "Wheat Seed": 5000000.0,
+      "White Berry": 5000000.0,
+      "White Berry Seed": 5000000.0,
+      "Wood": 5000000.0,
+      "Yellow Berry": 50000000.0,
+      "Yellow Berry Clone": 50000000.0,
+      "Yellow Berry Seed": 5000000.0
+    },
+    "QuarryResourceModifiers": {
+      "High Quality Metal Ore": 5000000.0,
+      "Sulfur Ore": 5000000.0
+    },
+    "SurveyResourceModifiers": {
+      "Honeycomb": 5000000.0
+    }
+  },
+  "Settings": {
+    "ChatPrefix": "Gather Manager",
+    "ChatPrefixColor": "#008000ff"
+  }
+}

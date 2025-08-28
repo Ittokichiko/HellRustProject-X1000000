@@ -1,0 +1,79 @@
+{
+  "Display Options": [
+    {
+      "Webhook url": "https://discord.com/api/webhooks/1406644129487786014/jBQZ2jNvsI40qBwLudNatiicb43jHXyTyOH7MxBd9SCKxjC4HOsAwcjX2REWiCTgAbTP",
+      "Killer Type": "Player",
+      "Victim Type": "*"
+    },
+    {
+      "Webhook url": "https://discord.com/api/webhooks/1406651595164356648/gaS7bOMk65OTv8DMZz7-bc3MmybGBgzXcMFhSnXYZbRweVqBywhDanpDY5kih7XC-gxA",
+      "Killer Type": "Animal",
+      "Victim Type": "Player"
+    }
+  ],
+  "Death Message": {
+    "Content": "",
+    "Embed": {
+      "Enabled": true,
+      "Title": "{server.name}",
+      "Description": ":crossed_swords: {discorddeath.message} :crossed_swords:",
+      "Url": "",
+      "Embed Color": "#939694",
+      "Image Url": "",
+      "Thumbnail Url": "",
+      "Fields": [
+        {
+          "Title": "Victim Type",
+          "Value": "{discorddeath.victim.type}",
+          "Inline": true
+        },
+        {
+          "Title": "Victim",
+          "Value": "{discorddeath.victim.name}({discorddeath.victim.id})",
+          "Inline": true
+        },
+        {
+          "Title": "Body Part",
+          "Value": "{discorddeath.victim.bodypart}",
+          "Inline": true
+        },
+        {
+          "Title": "Attacker Type",
+          "Value": "{discorddeath.killer.type}",
+          "Inline": true
+        },
+        {
+          "Title": "Attacker",
+          "Value": "{discorddeath.killer.name} ({discorddeath.killer.id})",
+          "Inline": true
+        },
+        {
+          "Title": "Attacker Health",
+          "Value": "{discorddeath.killer.health:0.00} HP",
+          "Inline": true
+        },
+        {
+          "Title": "Weapon",
+          "Value": "{discorddeath.killer.weapon} ({discorddeath.killer.attachments})",
+          "Inline": true
+        },
+        {
+          "Title": "Distance",
+          "Value": "{discorddeath.killer.distance:0.00} Meters",
+          "Inline": true
+        },
+        {
+          "Title": "Entity Owner",
+          "Value": "{discorddeath.killer.owner}",
+          "Inline": true
+        }
+      ],
+      "Footer": {
+        "Icon Url": "",
+        "Text": "",
+        "Enabled": true
+      }
+    }
+  },
+  "Debug Level (None, Error, Warning, Info)": "Warning"
+}

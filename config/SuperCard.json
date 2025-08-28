@@ -1,0 +1,32 @@
+{
+  "Command": "supercard.give",
+  "Item settings": {
+    "DisplayName": "Super Card",
+    "ShortName": "keycard_red",
+    "SkinID": 1988408422,
+    "Enable breaking": true,
+    "Breaking the item (1 - standard)": 1.0
+  },
+  "Enable spawn?": true,
+  "Drop Settings": [
+    {
+      "Object prefab name": "assets/bundled/prefabs/radtown/crate_normal.prefab",
+      "Minimum item to drop": 7000,
+      "Maximum item to drop": 7000,
+      "Item Drop Chance": 100.0
+    },
+    {
+      "Object prefab name": "assets/bundled/prefabs/radtown/loot_barrel_2.prefab",
+      "Minimum item to drop": 1000,
+      "Maximum item to drop": 1000,
+      "Item Drop Chance": 100.0
+    },
+    {
+      "Object prefab name": "assets/bundled/prefabs/radtown/loot_barrel_1.prefab",
+      "Minimum item to drop": 1000,
+      "Maximum item to drop": 1000,
+      "Item Drop Chance": 100.0
+    }
+  ],
+  "Use stacking hooks?": true
+}

@@ -1,0 +1,42 @@
+{
+  "Command": [
+    "trade",
+    "t"
+  ],
+  "Extra accept command": [
+    "ta",
+    "taccept"
+  ],
+  "Extra decline command": [
+    "td",
+    "tcancel"
+  ],
+  "Effect on completing trade": "assets/prefabs/building/wall.frame.shopfront/effects/metal_transaction_complete.prefab",
+  "Effect on pending request": "assets/bundled/prefabs/fx/invite_notice.prefab",
+  "Log trades": false,
+  "Block trade in raidblock": true,
+  "Block in building privilege": true,
+  "Start cooldown after accepting trade": false,
+  "Effects volume": 1.0,
+  "Chat sender id": 0,
+  "Permissions": [
+    {
+      "Permission": "trade.default",
+      "Priority": 1,
+      "Size": 2,
+      "Cooldown": 600
+    },
+    {
+      "Permission": "trade.vip",
+      "Priority": 2,
+      "Size": 6,
+      "Cooldown": 300
+    },
+    {
+      "Permission": "trade.top",
+      "Priority": 3,
+      "Size": 12,
+      "Cooldown": 60
+    }
+  ]
+}
