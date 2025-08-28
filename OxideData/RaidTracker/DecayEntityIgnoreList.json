@@ -1,0 +1,3477 @@
+{
+  "assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab": {
+    "name": "Above Ground Pool (abovegroundpool)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss_barrel_horizontal.prefab": {
+    "name": "Abyss Horizontal Storage Tank (abyss.barrel.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss_barrel_vertical.prefab": {
+    "name": "Abyss Vertical Storage Tank (abyss.barrel.vertical)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/andswitch/andswitch.entity.prefab": {
+    "name": "AND Switch (electric.andswitch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.hinged/door.hinged.toptier.prefab": {
+    "name": "Armored Door (door.hinged.toptier)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab": {
+    "name": "Armored Double Door (door.double.hinged.toptier)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/alarms/audioalarm.prefab": {
+    "name": "Audio Alarm (electric.audioalarm)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/autoturret/autoturret_deployed.prefab": {
+    "name": "Auto Turret (autoturret)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_vertical/bamboo_barrel.prefab": {
+    "name": "Bamboo Barrel (bamboo.barrel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/salvaged_bamboo_shelves.prefab": {
+    "name": "Bamboo Salvaged Shelves (salvaged.bamboo.shelves)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.woodwire.prefab": {
+    "name": "Barbed Wooden Barricade (barricade.woodwire)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/bbq/bbq.deployed.prefab": {
+    "name": "Barbeque (bbq)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/bath tub planter/bathtub.planter.deployed.prefab": {
+    "name": "Bath Tub Planter (bathtub.planter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/batteringram/batteringram.constructable.entity.prefab": {
+    "name": "Battering Ram (batteringram)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab": {
+    "name": "Beach Parasol (beachparasol)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/beach_chair/beachtable.deployed.prefab": {
+    "name": "Beach Table (beachtable)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.prefab": {
+    "name": "Beach Towel (beachtowel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/bed/bed_deployed.prefab": {
+    "name": "Bed (bed)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/beehive/beehive.deployed.prefab": {
+    "name": "Beehive (beehive)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot_hazmat_woodbox_deployed.prefab": {
+    "name": "Black Box (pilot.hazmat.box.wooden)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/blocker/electrical.blocker.deployed.prefab": {
+    "name": "Blocker (electric.blocker)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.blue.deployed.prefab": {
+    "name": "Blue Industrial Wall Light (industrial.wall.light.blue)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/boombox/boombox.deployed.prefab": {
+    "name": "Boom Box (boombox)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/button/button.prefab": {
+    "name": "Button (electric.button)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/tunnel/cabletunnel.prefab": {
+    "name": "Cable Tunnel (electric.cabletunnel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/campfire/campfire.prefab": {
+    "name": "Camp Fire (campfire)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/carvablepumpkin/carvable.pumpkin.prefab": {
+    "name": "Carvable Pumpkin (carvable.pumpkin)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/catapult/catapult.constructable.entity.prefab": {
+    "name": "Catapult (catapult)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/cctvcamera/cctv_deployed.prefab": {
+    "name": "CCTV Camera (cctv.camera)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab": {
+    "name": "Ceiling Light (ceilinglight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.fence/wall.frame.fence.prefab": {
+    "name": "Chainlink Fence (wall.frame.fence)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.fence/wall.frame.fence.gate.prefab": {
+    "name": "Chainlink Fence Gate (wall.frame.fence.gate)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/chickencoop/chickencoop.deployed.prefab": {
+    "name": "Chicken Coop (chickencoop)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.deployed.prefab": {
+    "name": "Chinese Lantern (chineselantern)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern_white.deployed.prefab": {
+    "name": "Chinese Lantern White (chineselanternwhite)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/xmastree/xmas_tree.deployed.prefab": {
+    "name": "Christmas Tree (xmas.tree)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/coffin/coffinstorage.prefab": {
+    "name": "Coffin (coffin.storage)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/commandblock/command.block.deployed.prefab": {
+    "name": "Command Block (command.block)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/composter/composter.prefab": {
+    "name": "Composter (composter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.concrete.prefab": {
+    "name": "Concrete Barricade (barricade.concrete)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/confetticannon/confetticannon.deployed.prefab": {
+    "name": "Confetti Cannon (confetticannon)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/hornspeaker/connectedspeaker.deployed.prefab": {
+    "name": "Connected Speaker (connected.speaker)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/cookingworkbench/cookingworkbench.deployed.prefab": {
+    "name": "Cooking Workbench (cookingworkbench)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/counter/counter.prefab": {
+    "name": "Counter (electric.counter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/cursed_cauldron/cursedcauldron.deployed.prefab": {
+    "name": "Cursed Cauldron (cursedcauldron)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/digitalclock/electric.digitalclock.deployed.prefab": {
+    "name": "Digital Clock (electric.digitalclock)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/discoball/discoball.deployed.prefab": {
+    "name": "Disco Ball (discoball)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/discofloor/discofloor.deployed.prefab": {
+    "name": "Disco Floor (discofloor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/discofloor/skins/discofloor.largetiles.deployed.prefab": {
+    "name": "Disco Floor (discofloor.largetiles)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab": {
+    "name": "Door Controller (electric.doorcontroller)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.post.double.prefab": {
+    "name": "Double Sign Post (sign.post.double)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/dropbox/dropbox.deployed.prefab": {
+    "name": "Drop Box (dropbox)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.prefab": {
+    "name": "Electric Furnace (electric.furnace)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/electricheater/electrical.heater.prefab": {
+    "name": "Electric Heater (electric.heater)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/branch/electrical.branch.deployed.prefab": {
+    "name": "Electrical Branch (electrical.branch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/elevator/elevator.prefab": {
+    "name": "Elevator (elevator)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/io research table/io.table.deployed.prefab": {
+    "name": "Engineering Workbench (iotable)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/permstore/factorydoor/door.hinged.industrial.d.prefab": {
+    "name": "Factory Door (factorydoor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/doorgarland/doorgarland.deployed.prefab": {
+    "name": "Festive Doorway Garland (xmas.door.garland)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/double_doorgarland/double_doorgarland.deployed.prefab": {
+    "name": "Festive Double Doorway Garland (xmas.double.door.garland)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/windowgarland/windowgarland.deployed.prefab": {
+    "name": "Festive Window Garland (xmas.window.garland)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/huntingtrophy_fish/fishtrophy.deployed.prefab": {
+    "name": "Fish Trophy (fishtrophy)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/flame turret/flameturret.deployed.prefab": {
+    "name": "Flame Turret (flameturret)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.deployed.prefab": {
+    "name": "Flasher Light (electric.flasherlight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/floor.grill/floor.grill.prefab": {
+    "name": "Floor grill (floor.grill)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/floor.triangle.grill/floor.triangle.grill.prefab": {
+    "name": "Floor triangle grill (floor.triangle.grill)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/fluidcombiner/fluid.combiner.deployed.prefab": {
+    "name": "Fluid Combiner (fluid.combiner)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/fluidsplitter/fluidsplitter.prefab": {
+    "name": "Fluid Splitter (fluid.splitter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/fluidswitch/fluidswitch.prefab": {
+    "name": "Fluid Switch & Pump (fluid.switch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/fog machine/fogmachine.prefab": {
+    "name": "Fogger-3000 (fogmachine)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/frankensteintable/frankensteintable.deployed.prefab": {
+    "name": "Frankenstein Table (frankensteintable)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/fridge/fridge.deployed.prefab": {
+    "name": "Fridge (fridge)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_single1.deployed.prefab": {
+    "name": "Frontier Bolts Single Item Rack (gunrack.single.1.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_single3.deployed.prefab": {
+    "name": "Frontier Horns Single Item Rack (gunrack.single.3.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_single2.deployed.prefab": {
+    "name": "Frontier Horseshoe Single Item Rack (gunrack.single.2.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/frontiermirror.large.prefab": {
+    "name": "Frontier Mirror Large (frontiermirror.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/frontiermirror.medium.prefab": {
+    "name": "Frontier Mirror Medium (frontiermirror.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/frontiermirror.small.prefab": {
+    "name": "Frontier Mirror Small (frontiermirror.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/frontiermirror.standing.prefab": {
+    "name": "Frontier Mirror Standing (frontiermirror.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/furnace/furnace.prefab": {
+    "name": "Furnace (furnace)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.garagedoor/wall.frame.garagedoor.prefab": {
+    "name": "Garage Door (wall.frame.garagedoor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.deployed.prefab": {
+    "name": "Giant Candy Decor (giantcandycanedecor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.deployed.prefab": {
+    "name": "Giant Lollipop Decor (giantlollipops)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldframe.large.prefab": {
+    "name": "Gold Frame large (goldframe.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldframe.medium.prefab": {
+    "name": "Gold Frame Medium (goldframe.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldframe.small.prefab": {
+    "name": "Gold Frame Small (goldframe.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldframe.standing.prefab": {
+    "name": "Gold Frame Standing (goldframe.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldmirror.large.prefab": {
+    "name": "Gold Mirror large (goldmirror.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldmirror.medium.prefab": {
+    "name": "Gold Mirror Medium (goldmirror.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldmirror.small.prefab": {
+    "name": "Gold Mirror Small (goldmirror.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/goldmirror.standing.prefab": {
+    "name": "Gold Mirror Standing (goldmirror.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/graveyard_fence/graveyardfence.prefab": {
+    "name": "Graveyard Fence (wall.graveyard.fence)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.green.deployed.prefab": {
+    "name": "Green Industrial Wall Light (industrial.wall.light.green)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/floor_half_shelves/halfheight_salvaged_bamboo_shelves.prefab": {
+    "name": "Half Height Bamboo Shelves (half.bamboo.shelves)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/detectors/hbhfsensor/hbhfsensor.deployed.prefab": {
+    "name": "HBHF Sensor (electric.hbhfsensor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.prefab": {
+    "name": "High External Adobe Gate (gates.external.high.adobe)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.prefab": {
+    "name": "High External Adobe Wall (wall.external.high.adobe)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/gates.external.high.legacy/gates.external.high.legacy.prefab": {
+    "name": "High External Legacy Gate (gates.external.high.legacy)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.external.high.legacy/wall.external.high.legacy.prefab": {
+    "name": "High External Legacy Wall (wall.external.high.legacy)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab": {
+    "name": "High External Stone Gate (gates.external.high.stone)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab": {
+    "name": "High External Stone Wall (wall.external.high.stone)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab": {
+    "name": "High External Wooden Gate (gates.external.high.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab": {
+    "name": "High External Wooden Wall (wall.external.high)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/icewalls/wall.external.high.ice.prefab": {
+    "name": "High Ice Wall (wall.external.high.ice)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab": {
+    "name": "Hitch & Trough (hitchtroughcombo)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/twitch/hobobarrel/hobobarrel.deployed.prefab": {
+    "name": "Hobo Barrel (hobobarrel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/landmine/landmine.prefab": {
+    "name": "Homemade Landmine (trap.landmine)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/hopper/hopper.deployed.prefab": {
+    "name": "Hopper (hopper)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_horizontal.deployed.prefab": {
+    "name": "Horizontal Weapon Rack (gunrack.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.huge.wood.prefab": {
+    "name": "Huge Wooden Sign (sign.wooden.huge)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.deployed.prefab": {
+    "name": "Ice Sculpture (sculpture.ice)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/igniter/igniter.deployed.prefab": {
+    "name": "Igniter (electric.igniter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/industrialcombiner/industrialcombiner.deployed.prefab": {
+    "name": "Industrial Combiner (industrial.combiner)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/industrialconveyor/industrialconveyor.deployed.prefab": {
+    "name": "Industrial Conveyor (industrial.conveyor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/industrialcrafter/industrialcrafter.deployed.prefab": {
+    "name": "Industrial Crafter (industrial.crafter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/twitch/industrialdoora/door.hinged.industrial.a.prefab": {
+    "name": "Industrial Door (door.hinged.industrial.a)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/industrialsplitter/industrialsplitter.deployed.prefab": {
+    "name": "Industrial Splitter (industrial.splitter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.deployed.prefab": {
+    "name": "Industrial Wall Light (industrial.wall.light)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/jack o lantern/jackolantern.angry.prefab": {
+    "name": "Jack O Lantern Angry (jackolantern.angry)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/jack o lantern/jackolantern.happy.prefab": {
+    "name": "Jack O Lantern Happy (jackolantern.happy)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.prefab": {
+    "name": "Ladder Hatch (floor.ladder.hatch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/photoframe/photoframe.landscape.prefab": {
+    "name": "Landscape Photo Frame (photoframe.landscape)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pictureframe.landscape.prefab": {
+    "name": "Landscape Picture Frame (sign.pictureframe.landscape)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/lantern/lantern.deployed.prefab": {
+    "name": "Lantern (lantern)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab": {
+    "name": "Large Animated Neon Sign (sign.neon.xl.animated)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.hanging.banner.large.prefab": {
+    "name": "Large Banner Hanging (sign.hanging.banner.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pole.banner.large.prefab": {
+    "name": "Large Banner on pole (sign.pole.banner.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/furnace.large/furnace.large.prefab": {
+    "name": "Large Furnace (furnace.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/huntingtrophy_large/huntingtrophylarge.deployed.prefab": {
+    "name": "Large Hunting Trophy (huntingtrophylarge)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.prefab": {
+    "name": "Large Neon Sign (sign.neon.xl)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/photoframe/photoframe.large.prefab": {
+    "name": "Large Photo Frame (photoframe.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/planters/planter.large.deployed.prefab": {
+    "name": "Large Planter Box (planter.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/batteries/large/large.rechargable.battery.deployed.prefab": {
+    "name": "Large Rechargeable Battery (electric.battery.rechargable.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab": {
+    "name": "Large Solar Panel (electric.solarpanel.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/water catcher/water_catcher_large.prefab": {
+    "name": "Large Water Catcher (water.catcher.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/box.wooden.large.prefab": {
+    "name": "Large Wood Box (box.wooden.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.large.wood.prefab": {
+    "name": "Large Wooden Sign (sign.wooden.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab": {
+    "name": "Laser Detector (electric.laserdetector)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/laserlight/laserlight.deployed.prefab": {
+    "name": "Laser Light (laserlight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/legacyfurnace/legacy_furnace.prefab": {
+    "name": "Legacy Furnace (legacyfurnace)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.deployed.prefab": {
+    "name": "Legacy Wood Shelter (legacy.shelter.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupframe.large.prefab": {
+    "name": "Light-Up Frame Large (lightup.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupframe.medium.prefab": {
+    "name": "Light-Up Frame Medium (lightupframe.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupframe.small.prefab": {
+    "name": "Light-Up Frame Small (lightupframe.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupframe.standing.prefab": {
+    "name": "Light-Up Frame Standing (lightupframe.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupmirror.large.prefab": {
+    "name": "Light-Up Mirror Large (lightupmirror.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupmirror.medium.prefab": {
+    "name": "Light-Up Mirror Medium (lightupmirror.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupmirror.small.prefab": {
+    "name": "Light-Up Mirror Small (lightupmirror.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/lightupmirror.standing.prefab": {
+    "name": "Light-Up Mirror Standing (lightupmirror.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/locker/locker.deployed.prefab": {
+    "name": "Locker (locker)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_c.prefab": {
+    "name": "Lunar Wall Frame Floral (wall.frame.lunar2025_c)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_a.prefab": {
+    "name": "Lunar Wall Frame Inlay (wall.frame.lunar2025_a)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_b.prefab": {
+    "name": "Lunar Wall Frame Swirling (wall.frame.lunar2025_b)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/mailbox/mailbox.deployed.prefab": {
+    "name": "Mail Box (mailbox)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.medieval.prefab": {
+    "name": "Medieval Barricade (barricade.medieval)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.prefab": {
+    "name": "Medieval Large Wood Box (medieval.box.wooden.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/medieval door skin/medieval.door.hinged.metal.prefab": {
+    "name": "Medieval Sheet Metal Door (medieval.door.hinged.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/medieval door skin/medieval.door.double.hinged.metal.prefab": {
+    "name": "Medieval Sheet Metal Double Door (medieval.door.double.hinged.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/neon_sign/sign.neon.125x215.animated.prefab": {
+    "name": "Medium Animated Neon Sign (sign.neon.125x215.animated)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/neon_sign/sign.neon.125x215.prefab": {
+    "name": "Medium Neon Sign (sign.neon.125x215)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/batteries/medium/medium.rechargable.battery.deployed.prefab": {
+    "name": "Medium Rechargeable Battery (electric.battery.rechargable.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.medium.wood.prefab": {
+    "name": "Medium Wooden Sign (sign.wooden.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/dflipflop/electrical.memorycell.deployed.prefab": {
+    "name": "Memory Cell (electrical.memorycell)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.metal.prefab": {
+    "name": "Metal Barricade (barricade.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.a.prefab": {
+    "name": "Metal horizontal embrasure (shutter.metal.embrasure.a)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab": {
+    "name": "Metal Shop Front (wall.frame.shopfront.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.embrasure/shutter.metal.embrasure.b.prefab": {
+    "name": "Metal Vertical embrasure (shutter.metal.embrasure.b)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab": {
+    "name": "Metal Window Bars (wall.window.bars.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/minecart planter/minecart.planter.deployed.prefab": {
+    "name": "Minecart Planter (minecart.planter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/mixingtable/mixingtable.deployed.prefab": {
+    "name": "Mixing Table (mixingtable)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/modular car lift/electrical.modularcarlift.deployed.prefab": {
+    "name": "Modular Car Lift (modularcarlift)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/ballista/ballista.constructable.entity.prefab": {
+    "name": "Mounted Ballista (ballista.mounted)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.netting/wall.frame.netting.prefab": {
+    "name": "Netting (wall.frame.netting)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.post.town.prefab": {
+    "name": "One Sided Town Sign Post (sign.post.town)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/orswitch/orswitch.entity.prefab": {
+    "name": "OR Switch (electric.orswitch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/paddling_pool/paddlingpool.deployed.prefab": {
+    "name": "Paddling Pool (paddlingpool)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/photoframe/photoframe.portrait.prefab": {
+    "name": "Portrait Photo Frame (photoframe.portrait)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pictureframe.portrait.prefab": {
+    "name": "Portrait Picture Frame (sign.pictureframe.portrait)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.deployed.prefab": {
+    "name": "Powered Water Purifier (powered.water.purifier)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab": {
+    "name": "Pressure Pad (electric.pressurepad)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab": {
+    "name": "Prison Cell Gate (wall.frame.cell.gate)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.cell/wall.frame.cell.prefab": {
+    "name": "Prison Cell Wall (wall.frame.cell)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/ptz security camera/ptz_cctv_deployed.prefab": {
+    "name": "PTZ CCTV Camera (ptz.cctv.camera)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/rail road planter/railroadplanter.deployed.prefab": {
+    "name": "Rail Road Planter (rail.road.planter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/randswitch/electrical.random.switch.deployed.prefab": {
+    "name": "RAND Switch (electric.random.switch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/reactive target/reactivetarget_deployed.prefab": {
+    "name": "Reactive Target (target.reactive)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.red.deployed.prefab": {
+    "name": "Red Industrial Wall Light (industrial.wall.light.red)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab": {
+    "name": "Reinforced Glass Window (wall.window.bars.toptier)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/repair bench/repairbench_deployed.prefab": {
+    "name": "Repair Bench (box.repair.bench)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/research table/researchtable_deployed.prefab": {
+    "name": "Research Table (research.table)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/retro/cupboard.tool.retro.deployed.prefab": {
+    "name": "Retro Tool Cupboard (cupboard.tool.retro)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/rfbroadcaster/rfbroadcaster.prefab": {
+    "name": "RF Broadcaster (electric.rf.broadcaster)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab": {
+    "name": "RF Receiver (electric.rf.receiver)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/combiner/electrical.combiner.deployed.prefab": {
+    "name": "Root Combiner (electrical.combiner)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/rug/rug.deployed.prefab": {
+    "name": "Rug (rug)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/rug/rug.bear.deployed.prefab": {
+    "name": "Rug Bear Skin (rug.bear)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/shelves/shelves.prefab": {
+    "name": "Salvaged Shelves (shelves)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/sam_site_turret/sam_site_turret_deployed.prefab": {
+    "name": "SAM Site (samsite)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.sandbags.prefab": {
+    "name": "Sandbag Barricade (barricade.sandbags)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/scarecrow/scarecrow.deployed.prefab": {
+    "name": "Scarecrow (scarecrow)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapframe.large.prefab": {
+    "name": "Scrap Frame large (scrapframe.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapframe.medium.prefab": {
+    "name": "Scrap Frame Medium (scrapframe.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapframe.small.prefab": {
+    "name": "Scrap Frame Small (scrapframe.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapframe.standing.prefab": {
+    "name": "Scrap Frame Standing (scrapframe.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapmirror.large.prefab": {
+    "name": "Scrap Mirror Large (scrapmirror.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapmirror.medium.prefab": {
+    "name": "Scrap Mirror Medium (scrapmirror.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapmirror.small.prefab": {
+    "name": "Scrap Mirror Small (scrapmirror.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/scrapmirror.standing.prefab": {
+    "name": "Scrap Mirror Standing (scrapmirror.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/search light/searchlight.deployed.prefab": {
+    "name": "Search Light (searchlight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/seismicsensor/electric.seismicsensor.deployed.prefab": {
+    "name": "Seismic Sensor (electric.seismicsensor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.hinged/door.hinged.metal.prefab": {
+    "name": "Sheet Metal Door (door.hinged.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab": {
+    "name": "Sheet Metal Double Door (door.double.hinged.metal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.deployed.prefab": {
+    "name": "Shockbyte Tool Cupboard (cupboard.tool.shockbyte)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab": {
+    "name": "Shop Front (wall.frame.shopfront)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/icewalls/icewall.prefab": {
+    "name": "Short Ice Wall (wall.ice.wall)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/single shot trap/guntrap.deployed.prefab": {
+    "name": "Shotgun Trap (guntrap)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/siegetower/siegetower.constructable.entity.prefab": {
+    "name": "Siege Tower (siegetower)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/lights/simplelight.prefab": {
+    "name": "Simple Light (electric.simplelight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/lights/simplelight.prefab": {
+    "name": "Simple Light (electric.simplelight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/plant pots/plantpot.single.deployed.prefab": {
+    "name": "Single Plant Pot (plantpot.single)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/wall_single_shallow_shelves/wall_single_shallow_shelf.prefab": {
+    "name": "Single Shallow Wall Shelves (single.shallow.wall.shelves)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.post.single.prefab": {
+    "name": "Single Sign Post (sign.post.single)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab": {
+    "name": "Siren Light (electric.sirenlight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/skull_fire_pit/skull_fire_pit.prefab": {
+    "name": "Skull Fire Pit (skull_fire_pit)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/trophy skulls/skulltrophy.deployed.prefab": {
+    "name": "Skull Trophy (skull.trophy)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.jar.deployed.prefab": {
+    "name": "Skull Trophy (skull.trophy.jar)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.jar2.deployed.prefab": {
+    "name": "Skull Trophy (skull.trophy.jar2)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.table.deployed.prefab": {
+    "name": "Skull Trophy (skull.trophy.table)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.green.prefab": {
+    "name": "Sky Lantern - Green (skylantern.skylantern.green)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.orange.prefab": {
+    "name": "Sky Lantern - Orange (skylantern.skylantern.orange)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.purple.prefab": {
+    "name": "Sky Lantern - Purple (skylantern.skylantern.purple)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.red.prefab": {
+    "name": "Sky Lantern - Red (skylantern.skylantern.red)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.deployed.prefab": {
+    "name": "Sky Lantern (skylantern)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab": {
+    "name": "Sleeping Bag (sleepingbag)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.deployed.prefab": {
+    "name": "Small Generator (electric.fuelgenerator.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/huntingtrophy_small/huntingtrophysmall.deployed.prefab": {
+    "name": "Small Hunting Trophy (huntingtrophysmall)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/neon_sign/sign.neon.125x125.prefab": {
+    "name": "Small Neon Sign (sign.neon.125x125)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/oil refinery/refinery_small_deployed.prefab": {
+    "name": "Small Oil Refinery (small.oil.refinery)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/planters/planter.small.deployed.prefab": {
+    "name": "Small Planter Box (planter.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/batteries/smallrechargablebattery.deployed.prefab": {
+    "name": "Small Rechargeable Battery (electric.battery.rechargable.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/small stash/small_stash_deployed.prefab": {
+    "name": "Small Stash (stash.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/stockings/stocking_small_deployed.prefab": {
+    "name": "Small Stocking (stocking.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/water catcher/water_catcher_small.prefab": {
+    "name": "Small Water Catcher (water.catcher.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.small.wood.prefab": {
+    "name": "Small Wooden Sign (sign.wooden.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/app/smartalarm/smartalarm.prefab": {
+    "name": "Smart Alarm (smart.alarm)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/app/smartswitch/smartswitch.prefab": {
+    "name": "Smart Switch (smart.switch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/bear trap/beartrap.prefab": {
+    "name": "Snap Trap (trap.bear)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/snow_machine/models/snowmachine.prefab": {
+    "name": "Snow Machine (snowmachine)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/snowman/snowman.deployed.prefab": {
+    "name": "Snowman (snowman)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/soundlight/soundlight.deployed.prefab": {
+    "name": "Sound Light (soundlight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/spinner_wheel/spinner.wheel.deployed.prefab": {
+    "name": "Spinning Wheel (spinner.wheel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/splitter/splitter.prefab": {
+    "name": "Splitter (electric.splitter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/splitter.prefab": {
+    "name": "Splitter (electric.splitter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/spookyspeaker/spookyspeaker.prefab": {
+    "name": "Spooky Speaker (spookyspeaker)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/sprinkler/electric.sprinkler.deployed.prefab": {
+    "name": "Sprinkler (electric.sprinkler)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.stone.prefab": {
+    "name": "Stone Barricade (barricade.stone)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/fireplace/fireplace.deployed.prefab": {
+    "name": "Stone Fireplace (fireplace.stone)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/industrialadaptors/storageadaptor.deployed.prefab": {
+    "name": "Storage Adaptor (storageadaptor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.prefab": {
+    "name": "Storage Barrel Horizontal (storage_barrel_c)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.prefab": {
+    "name": "Storage Barrel Vertical (storage_barrel_b)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/app/storagemonitor/storagemonitor.deployed.prefab": {
+    "name": "Storage Monitor (storage.monitor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.prefab": {
+    "name": "Strengthened Glass Window (wall.window.glass.reinforced)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/strobe light/strobelight.prefab": {
+    "name": "Strobe Light (strobelight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/stockings/stocking_large_deployed.prefab": {
+    "name": "SUPER Stocking (stocking.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/survivalfishtrap/survivalfishtrap.deployed.prefab": {
+    "name": "Survival Fish Trap (fishtrap.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab": {
+    "name": "Switch (electric.switch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/table/table.deployed.prefab": {
+    "name": "Table (table)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pictureframe.tall.prefab": {
+    "name": "Tall Picture Frame (sign.pictureframe.tall)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_tall.deployed.prefab": {
+    "name": "Tall Weapon Rack (gunrack_tall.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/telephone/telephone.deployed.prefab": {
+    "name": "Telephone (telephone)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/teslacoil/teslacoil.deployed.prefab": {
+    "name": "Tesla Coil (electric.teslacoil)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/generators/generator.small.prefab": {
+    "name": "Test Generator (electric.generator.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/timers/timer.prefab": {
+    "name": "Timer (electric.timer)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/detectors/tincanalarm/tincan.alarm.deployed.prefab": {
+    "name": "Tin Can Alarm (tincan.alarm)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab": {
+    "name": "Tool Cupboard (cupboard.tool)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/torchholder/torchholder.deployed.prefab": {
+    "name": "Torch Holder (torchholder)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/floor.triangle.ladder.hatch/floor.triangle.ladder.hatch.prefab": {
+    "name": "Triangle Ladder Hatch (floor.triangle.ladder.hatch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/planters/planter.triangle.deployed.prefab": {
+    "name": "Triangle Planter Box (planter.triangle)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/rail road planter/triangle_railroad_planter.deployed.prefab": {
+    "name": "Triangle Rail Road Planter (triangle.rail.road.planter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.prefab": {
+    "name": "Tuna Can Lamp (tunalight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.hanging.prefab": {
+    "name": "Two Sided Hanging Sign (sign.hanging)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.hanging.ornate.prefab": {
+    "name": "Two Sided Ornate Hanging Sign (sign.hanging.ornate)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.post.town.roof.prefab": {
+    "name": "Two Sided Town Sign Post (sign.post.town.roof)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/twowaymirror.window.prefab": {
+    "name": "Two-Way Mirror (twowaymirror.window)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/storagebarrel/unused_storage_barrel_a.prefab": {
+    "name": "Unused Storage Barrel Vertical (storage_barrel_a)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab": {
+    "name": "Vending Machine (vending.machine)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/wantedposter/wantedposter.deployed.prefab": {
+    "name": "Wanted Poster (wantedposter)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter2.prefab": {
+    "name": "Wanted Poster 2 (wantedposter.wantedposter2)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter3.prefab": {
+    "name": "Wanted Poster 3 (wantedposter.wantedposter3)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter4.prefab": {
+    "name": "Wanted Poster 4 (wantedposter.wantedposter4)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/watchtower.wood/watchtower.wood.prefab": {
+    "name": "Watch Tower (watchtower.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/liquidbarrel/waterbarrel.prefab": {
+    "name": "Water Barrel (water.barrel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/waterpump/water.pump.deployed.prefab": {
+    "name": "Water Pump (waterpump)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.prefab": {
+    "name": "Water Purifier (water.purifier)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/gun_rack/weaponracklightdouble.prefab": {
+    "name": "Weapon Rack Double Light (weaponrack.doublelight)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/gun_rack/weaponracklight.prefab": {
+    "name": "Weapon Rack Light (weaponrack.light)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_stand.deployed.prefab": {
+    "name": "Weapon Rack Stand (gunrack_stand)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_horizontal/wicker_barrel.prefab": {
+    "name": "Wicker Barrel (wicker.barrel)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/weaponracks/weaponrack_wide.deployed.prefab": {
+    "name": "Wide Weapon Rack (gunrack_wide.horizontal)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/windmill/electric.windmill.small.prefab": {
+    "name": "Wind Turbine (generator.wind.scrap)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/windmill/generator.wind.scrap.prefab": {
+    "name": "Wind Turbine (generator.wind.scrap)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab": {
+    "name": "Wood Double Door (door.double.hinged.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodframe.large.prefab": {
+    "name": "Wood Frame Large (woodframe.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodframe.medium.prefab": {
+    "name": "Wood Frame Medium (woodframe.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodframe.small.prefab": {
+    "name": "Wood Frame Small (woodframe.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodframe.standing.prefab": {
+    "name": "Wood Frame Standing (woodframe.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodmirror.large.prefab": {
+    "name": "Wood Mirror Large (woodmirror.large)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodmirror.medium.prefab": {
+    "name": "Wood Mirror Medium (woodmirror.medium)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodmirror.small.prefab": {
+    "name": "Wood Mirror Small (woodmirror.small)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/mirror/woodmirror.standing.prefab": {
+    "name": "Wood Mirror Standing (woodmirror.standing)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.shutter/shutter.wood.a.prefab": {
+    "name": "Wood Shutters (shutter.wood.a)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab": {
+    "name": "Wood Storage Box (box.wooden)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.wood.prefab": {
+    "name": "Wooden Barricade (barricade.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab": {
+    "name": "Wooden Barricade Cover (barricade.wood.cover)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/door.hinged/door.hinged.wood.prefab": {
+    "name": "Wooden Door (door.hinged.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/floor spikes/spikes.floor.prefab": {
+    "name": "Wooden Floor Spikes (spikes.floor)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/bardoors/door.double.hinged.bardoors.prefab": {
+    "name": "Wooden Frontier Bar Doors (door.double.hinged.bardoors)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab": {
+    "name": "Wooden Window Bars (wall.window.bars.wood)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab": {
+    "name": "Workbench Level 1 (workbench1)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.prefab": {
+    "name": "Workbench Level 2 (workbench2)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab": {
+    "name": "Workbench Level 3 (workbench3)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pictureframe.xl.prefab": {
+    "name": "XL Picture Frame (sign.pictureframe.xl)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.entity.prefab": {
+    "name": "XOR Switch (electric.xorswitch)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/signs/sign.pictureframe.xxl.prefab": {
+    "name": "XXL Picture Frame (sign.pictureframe.xxl)",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/autospawn/phonebooth/phonebooth.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/asset_store/bankheist_package/bankheist_vol03/prefabs/door.vault.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/asset_store/hiddenhackablecrate.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/events/twitch/twitch_dropbox.deployed.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_building_hapis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_buyres_hapis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_food_hapis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_hapis_farming.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_hapis_hapis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/hapis/npcvendingmachine_weapons_hapis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_basic.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_elite.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_normal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_normal_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_normal_2_food.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_normal_2_medical.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_tools.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_foodbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_vehicle_parts.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_basic.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_basic_jungle.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_elite.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_mine.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_normal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_normal_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_normal_2_food.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_tools.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_underwater_advanced.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm ammo.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm c4.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm construction resources.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm construction tools.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm food.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm medical.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm res.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm tier1 lootbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm tier2 lootbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/dmloot/dm tier3 lootbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/foodbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/loot_barrel_1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/loot_barrel_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/loot_component_test.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/loot_trash.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/minecart.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/oil_barrel.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_food_1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_food_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_fuel.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_medical.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/crate_tools.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/tech_parts_1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/tech_parts_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/underwater_labs/vehicle_parts.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/radtown/vehicle_parts.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/bbq.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/bbq.static_hidden.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/campfire_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.bunker.door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.bunker.door_nuclear_silo.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.bunker_hatch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.cargo_ship.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.cargo_ship_side.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.elevator_door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.elevator_door_office.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.elevator_inside_door_office.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.garage_a.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.garage_security.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_a.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_b.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_c.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_d.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_e.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_f.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_g.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.industrial_a_h.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.nms_green.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.nms_grey.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.nms_hatch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.nms_red.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.residential_a.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.security.blue.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.security.green.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.security.red.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.underwater_labs.public.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.underwater_labs.security.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.vent.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door.hinged.wood.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/door_test_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/furnace_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/hobobarrel_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/modularcarlift.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/recycler_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/repairbench_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/researchtable_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/small_refinery_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/spikes_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/wall.frame.shopfront.metal.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/water_catcher_small.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/workbench1.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/bundled/prefabs/static/workbench2.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/building/parts/static/wall.frame.shopfront.door_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/building/parts/static/wall.frame.shopfront_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/gingerbread_barricades/gingerbread_barricades_house.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/gingerbread_barricades/gingerbread_barricades_snowman.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/gingerbread_barricades/gingerbread_barricades_tree.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign3.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign4.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign5.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign6.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign7.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign8.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/roadsigns/roadsign9.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/sentry_scientists/sentry.bandit.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/sentry_scientists/sentry.scientist.barge.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/sentry_scientists/sentry.scientist.barge.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/sentry_scientists/sentry.scientist.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/shipping_containers/door.hinged.shipping_container.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/props/wooden_crates/wooden_crate_gingerbread.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/arctic_base_modules/door.hinged.arctic.garage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/excavator/prefabs/engine.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/excavator/prefabs/enginelistener.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/excavator/prefabs/excavator_output_pile.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/interactive_garage_door/sliding_blast_door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/jungle_ziggurat/door.hinged.zigg_security_gate.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/lift_shaft/cave_lift.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/rocket_crane/rocket_crane_lift.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/structures/rocket_crane/rocket_crane_lift_nd.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/attackhelicopter/subents/fuel_storage_attackheli.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/attackhelicopter/subents/rockets_attackheli.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/attackhelicopter/subents/turret_attackheli.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/bikes/subents/motorbikefuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/rhib/subents/fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/rhib/subents/rhib_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/rowboat/subents/fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/rowboat/subents/rowboat_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/tugboat/subents/door.hinged.tugboat.door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/boats/tugboat/subents/tugboat fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/dpv/dpvfuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/minicopter/subents/fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/mlrs/subents/mlrs_dashboard_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/mlrs/subents/mlrs_rocket_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_1mod_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_1mod_trade.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_2mod_fuel_tank.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_camper_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_i4_engine_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_sleepingbag_campervan.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/modularcar/subents/modular_car_v8_engine_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/scrap heli carrier/subents/fuel_storage_scrapheli.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/catapult/subents/catapult.ammo_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_01.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_02.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_03.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/snowmobiles/subents/snowmobilefuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/snowmobiles/subents/snowmobileitemstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/submarine/subents/submarinefuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/submarine/subents/submarineitemstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/submarine/subents/submarinetorpedostorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/caboose/blackjackmachine/subents/blackjackplayerstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/caboose/blackjackmachine/subents/blackjackpotstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/caboose/caboose_generator.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/caboose/caboose_lightswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/caboose/caboose_xorswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/locomotive/subents/locomotive_fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_crate_normal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_food.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_medical.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_storage_fuel.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/wagons/subents/wagon_storage_lootwagon.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/workcart/subents/workcart_fuel_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/content/vehicles/trains/workcart/workcartitemstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.door.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/floor/floor.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/floor.frame/floor.frame.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/floor.triangle/floor.triangle.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/floor.triangle.frame/floor.triangle.frame.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/foundation/foundation.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/foundation.steps/foundation.steps.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/ramp/ramp.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/roof/roof.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/roof.triangle/roof.triangle.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/stairs.l/block.stair.lshape.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/stairs.spiral.triangle/block.stair.spiral.triangle.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/stairs.u/block.stair.ushape.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall/wall.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall.doorway/wall.doorway.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall.frame/wall.frame.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall.half/wall.half.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall.low/wall.low.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/building core/wall.window/wall.window.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/barricades/barricade.cover.wood.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/bbq/bbq.campermodule.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/bed/bed_deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/card table/subents/cardgameplayerstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/card table/subents/cardgamepotstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/cctvcamera/cctv.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/cookingworkbench/cookingworkbench.bbq.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_a.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_a_large.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_b.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_dbl_a.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_dbl_a_large.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_dbl_b.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/door barricades/door_barricade_dbl_b_large.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/elevator/elevatorioentity.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/elevator/static/elevator.static.office.top.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/elevator/static/elevator.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/elevator/static/elevator.static.top.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/fridge/fridge.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/furnace/furnace.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/hot air balloon/door.hinged.hab_t1.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/hot air balloon/subents/hab_storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/box.wooden.large.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss_barrel_horizontal.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss_barrel_vertical.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_horizontal/wicker_barrel.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_vertical/bamboo_barrel.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/legacyfurnace/legacy_furnace.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/locker/locker.campermodule.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/locker/locker.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/oil jack/crudeoutput.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/oil jack/fuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.io.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.storage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/ptz security camera/ptz_cctv.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/quarry/fuelstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/quarry/hopperoutput.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/sleeping bag/sleepingbag.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/cupboard.tool.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/invisible_building_auth.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/retro/cupboard.tool.retro.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/retro/storageadaptor_retro_tc.deployed.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachine.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_attire.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_building.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_components.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_extra.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_farming.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_fishexchange.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_hapisexchange.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_resources.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_tools.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_travellingvendor.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicles.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicleshigh.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_weapons.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/shopkeeper_vm_invis.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/npcvendingmachines/shopkeeper_vm_invis_waterwell.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/water well/waterwellstatic.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/waterpurifier/waterstorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot_hazmat_woodbox_deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/deployable/woodenbox/woodbox_deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/gamemodes/objects/reclaim/reclaimterminal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/gamemodes/softcore/staticrespawnzonebandit.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/gamemodes/softcore/staticrespawnzonecompound.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/generators/generator.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/generators/generator.static_hidden.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/lights/sirenlightblue.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/lights/sirenlightgreen.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/lights/sirenlightorange.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/other/alarmsound.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/other/rfbroadcaster.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/andswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/cardreader.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/doormanipulator.invisible.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/doormanipulator.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/fusebox/fusebox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/orswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_compact.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_invisible.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatorcall.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatordown.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatorup.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/pressbutton/pressbutton_trainstairwell.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/simpleswitch/simpleswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/simpleswitch_lightswitch/simpleswitch_lightswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/timerswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/electric/switches/xorswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/kinetic/wheelswitch.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/io/kinetic/wheelswitch_wheel_only.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/casino/bigwheel/big_wheel.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/casino/slotmachine/slotmachinestorage.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/chinese_door_decoration/chinese_door_decoration.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/chinesenewyear/chinese_door_frame_decoration/chinese_door_frame_decoration.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/food cache/food_cache_001.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/food cache/food_cache_002.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/food cache/food_cache_003.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/food cache/food_cache_004.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/food cache/food_cache_005.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/halloween/coffin/coffinstorage.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/marketplace/marketterminal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/parachute/parachuteunpacked.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/playerspawn/staticrespawnzonecompound_vanilla.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/respawningplanters/planter.small.respawning.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/simplelootbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.corpse.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/supply drop/supply_drop.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/giftbox/giftbox_loot.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/sleigh/presentdrop.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/misc/xmas/xmastree/xmas_tree_a.deployed.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/dynamicmissionstash.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/genericmissionlootcontainerreusable.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/logstash.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/missionlootbox_basic.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/missionstash.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/entities/tacklebox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/portal/proceduraldungeon/xmastunnels/loot/xmastunnellootbox.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/tutorialisland/crate_elite_tutorial.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/tutorialisland/crate_tools_tutorial.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/missions/tutorialisland/loot-barrel-tutorial.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/ch47/alarmsytstem.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/m2bradley/bradley_crate.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/patrol helicopter/heli_crate.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/sam_site_turret/sam_static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/travelling vendor/npcvendorturretmodified variant.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/npc/travelling vendor/npcvendorturretside.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/resource/diesel barrel/diesel_barrel_world.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/resource/natural beehive/beehive.natural.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/tools/spraycan/freehandspray/spraylinedecal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/tools/spraycan/sprays/spray.decal.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/boombox/boombox.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/cassetterecorder/cassetterecorder.deployed.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/hornspeaker/connectedspeaker.deployed.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/microphonestand/microphonestandio.entity.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/voiceaudio/microphonestand/microphonestandio.entity.static.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.doorway.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.floor.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.floor.triangle.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.foundation.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.foundation.triangle.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.roof.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.roof.triangle.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.wall.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.wall.half.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.wall.low.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/prefabs/wallpaper/constructions/wallpaper.window.construction.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/scenes/prefabs/trainyard/coaling_tower_mechanism.entity.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/scenes/prefabs/trainyard/subents/coaling_tower_fuel_storage.entity.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/scenes/prefabs/trainyard/subents/coaling_tower_ore_storage.entity.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  },
+  "assets/scripts/entity/misc/visualstoragecontainer/visualshelvestest.prefab": {
+    "name": "",
+    "ignore": false,
+    "ignoreDiscord": false
+  }
+}

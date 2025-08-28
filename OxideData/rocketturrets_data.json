@@ -1,0 +1,9 @@
+{
+  "launchers": {
+    "8154301": {
+      "type": 0,
+      "loadedAmmo": "ammo.rocket.hv",
+      "loadedCapacity": 1
+    }
+  }
+}

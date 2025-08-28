@@ -1,0 +1,126 @@
+{
+  "clans": {
+    "BURN": {
+      "Tag": "BURN",
+      "Description": "",
+      "OwnerID": "76561199378714248",
+      "CreationTime": 1756211450.0,
+      "LastOnlineTime": 1756281742.0,
+      "ClanMembers": {
+        "76561199378714248": {
+          "Name": "RikkoMats",
+          "Role": 0
+        },
+        "76561199826345083": {
+          "Name": "Gabiru",
+          "Role": 2
+        }
+      },
+      "MemberInvites": {
+        "76561199489516799": {
+          "Name": "yankivtanke",
+          "ExpiryTime": 1756217264.0
+        },
+        "76561198057887435": {
+          "Name": "InkvizitoR",
+          "ExpiryTime": 1756243919.0
+        }
+      },
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    },
+    "111": {
+      "Tag": "111",
+      "Description": "",
+      "OwnerID": "76561199876486216",
+      "CreationTime": 1755976501.0,
+      "LastOnlineTime": 1755978033.0,
+      "ClanMembers": {
+        "76561199876486216": {
+          "Name": "●•  Ύ  a  Ύ",
+          "Role": 0
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    },
+    "k11": {
+      "Tag": "k11",
+      "Description": "",
+      "OwnerID": "76561199823599927",
+      "CreationTime": 1756228447.0,
+      "LastOnlineTime": 1756231903.0,
+      "ClanMembers": {
+        "76561199823599927": {
+          "Name": "ﻀ",
+          "Role": 0
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    },
+    "RoKapi": {
+      "Tag": "RoKapi",
+      "Description": "Ronald&Kapibara",
+      "OwnerID": "76561199398957741",
+      "CreationTime": 1756236417.0,
+      "LastOnlineTime": 1756288458.0,
+      "ClanMembers": {
+        "76561199398957741": {
+          "Name": "Окак",
+          "Role": 0
+        },
+        "76561199401525543": {
+          "Name": "ОТАК",
+          "Role": 2
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    },
+    "ZIZILAZZD": {
+      "Tag": "ZIZILAZZD",
+      "Description": "",
+      "OwnerID": "76561199435349857",
+      "CreationTime": 1756248121.0,
+      "LastOnlineTime": 1756249848.0,
+      "ClanMembers": {
+        "76561199435349857": {
+          "Name": "zizilazzd#raidcore",
+          "Role": 0
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    }
+  },
+  "playerInvites": {
+    "76561199489516799": [
+      "DIMP",
+      "BURN"
+    ],
+    "76561199747017015": [
+      "DIMP"
+    ],
+    "76561199498543780": [
+      "DIMP"
+    ],
+    "76561198057887435": [
+      "BURN"
+    ]
+  }
+}

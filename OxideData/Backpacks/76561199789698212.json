@@ -1,0 +1,75 @@
+{
+  "GatherMode": {},
+  "OwnerID": 76561199789698212,
+  "Items": [
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 0,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 1,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 2,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": 1588492232,
+      "Condition": 100.0,
+      "Position": 3,
+      "Amount": 50000,
+      "MaxCondition": 100.0
+    },
+    {
+      "ID": -470439097,
+      "Position": 4,
+      "Amount": 1,
+      "MaxCondition": 450.0,
+      "Ownership": [
+        {
+          "Username": "RikkoMats",
+          "Reason": "ownership.spawned",
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 5,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 6,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": -105415879,
+      "Condition": 450.0,
+      "Position": 7,
+      "Amount": 1,
+      "MaxCondition": 450.0
+    },
+    {
+      "ID": -295829489,
+      "Condition": 100.0,
+      "Position": 8,
+      "Amount": 50000000,
+      "MaxCondition": 100.0
+    }
+  ]
+}

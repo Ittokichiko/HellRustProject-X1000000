@@ -1,0 +1,19 @@
+{
+  "Minicopter": {
+    "Vehicles": {
+      "76561199826345083": 10454504
+    },
+    "SpawnCooldowns": {},
+    "FetchCooldowns": {}
+  },
+  "ScrapTransportHelicopter": {
+    "Vehicles": {},
+    "SpawnCooldowns": {},
+    "FetchCooldowns": {}
+  },
+  "AttackHelicopter": {
+    "Vehicles": {},
+    "SpawnCooldowns": {},
+    "FetchCooldowns": {}
+  }
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "COBALT",
+    "ownerId": null,
+    "memberIds": [],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 0,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T13:51:30.239904Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "0001-01-01T00:00:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "BANDITS",
+    "ownerId": null,
+    "memberIds": [],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 0,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T13:51:30.240181Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "0001-01-01T00:00:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "BURN",
+    "ownerId": "76561199378714248",
+    "memberIds": [
+      "76561199378714248"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 3,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T14:01:52.923862Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-26T17:01:52.923867+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "k11",
+    "ownerId": "76561199823599927",
+    "memberIds": [
+      "76561199823599927"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 4,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T17:14:54.199267Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-26T20:14:54.199271+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "RoKapi",
+    "ownerId": "76561199398957741",
+    "memberIds": [
+      "76561199398957741",
+      "76561199401525543"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 5,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T19:17:32.169687Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-26T22:17:32.169687+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "ronkapi",
+    "ownerId": "76561199401525543",
+    "memberIds": [
+      "76561199401525543"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 6,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T19:21:40.472819Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-26T22:21:40.472819+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "the",
+    "ownerId": "76561199020506282",
+    "memberIds": [
+      "76561199020506282"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 7,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T19:50:07.436919Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-26T22:50:07.436919+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "ZIZLAZZD",
+    "ownerId": "76561199435349857",
+    "memberIds": [
+      "76561199435349857"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 8,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T22:38:41.203615Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-27T01:38:41.203616+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "123",
+    "ownerId": "76561199143477635",
+    "memberIds": [
+      "76561199143477635"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 9,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-27T22:43:47.442857Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-27T01:43:47.442858+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  },
+  {
+    "id": "mы",
+    "ownerId": "76561199668686387",
+    "memberIds": [
+      "76561199668686387"
+    ],
+    "managerIds": [],
+    "inviteIds": [],
+    "aggressors": [],
+    "inGameTeamID": 6,
+    "taxRate": 0.1,
+    "taxChestId": null,
+    "nextUpkeepPaymentTime": "2025-08-28T09:36:51.253285Z",
+    "isUpkeepPastDue": false,
+    "isBadlands": false,
+    "badlandsCommandUsedTime": null,
+    "creationTime": "2025-08-27T12:36:51.253289+03:00",
+    "reputation": 0.0,
+    "isNpcFaction": false
+  }
+]
